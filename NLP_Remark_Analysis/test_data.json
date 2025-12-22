@@ -1,0 +1,487 @@
+[
+    {
+        "remark_text": "Customer requested a firmware update for improved performance.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was relocated to a different room as per user instructions.",
+        "category": "Device Relocation",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User reported intermittent connectivity issues during peak hours.",
+        "category": "Connectivity Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Scheduled maintenance completed successfully with no errors.",
+        "category": "Maintenance",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "System logs indicate a power surge event last night.",
+        "category": "Power Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer expressed satisfaction with the new lighting controls.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device failed to respond to remote commands intermittently.",
+        "category": "Device Failure",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Firmware rollback was performed due to compatibility issues.",
+        "category": "Firmware Update",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User requested additional training on system features.",
+        "category": "Training Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Battery replacement resolved the connectivity problem.",
+        "category": "Maintenance",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Customer complained about slow response times.",
+        "category": "Performance Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "System upgrade completed without any reported issues.",
+        "category": "System Upgrade",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User reported that the app crashes frequently.",
+        "category": "App Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Device was reset to factory settings as per support instructions.",
+        "category": "Device Reset",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer praised the quick installation process.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Power outage caused temporary loss of service.",
+        "category": "Power Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "User requested integration with third-party smart home devices.",
+        "category": "Integration Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Firmware update introduced new features as expected.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Customer dissatisfied with the device's range.",
+        "category": "Customer Feedback",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Device was successfully paired with the mobile app.",
+        "category": "Device Pairing",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User reported that scheduled events did not trigger.",
+        "category": "Scheduling Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer requested a demo of advanced features.",
+        "category": "Training Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "System logs show consistent operation over the past week.",
+        "category": "System Monitoring",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was removed from the system as per user request.",
+        "category": "Device Removal",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User reported that the device is overheating.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer happy with the energy savings after installation.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Firmware update failed due to network error.",
+        "category": "Firmware Update",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Device was added to a new group for automation.",
+        "category": "Device Grouping",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User requested a replacement for a faulty device.",
+        "category": "Replacement Request",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer appreciated the prompt technical support.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device firmware is up to date.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User reported that the lights flicker occasionally.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "System backup completed successfully.",
+        "category": "System Maintenance",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Customer requested to disable certain notifications.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Device was unresponsive after the last update.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "User is satisfied with the new scheduling feature.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Customer reported a delay in automation routines.",
+        "category": "Performance Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Device was successfully calibrated.",
+        "category": "Device Calibration",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested more customization options.",
+        "category": "Feature Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer unhappy with the device's battery life.",
+        "category": "Customer Feedback",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Firmware update resolved previous connectivity issues.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User reported that the device is making noise.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer requested a refund for a defective product.",
+        "category": "Refund Request",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Device was successfully integrated with Alexa.",
+        "category": "Integration",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to change the device name.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer reported that the device is not charging.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "System update improved overall stability.",
+        "category": "System Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to reset the password.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer is pleased with the new user interface.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was replaced under warranty.",
+        "category": "Replacement",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User reported that the device is not connecting to Wi-Fi.",
+        "category": "Connectivity Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer appreciated the detailed installation guide.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device firmware update was postponed.",
+        "category": "Firmware Update",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User reported that the device is not responding to voice commands.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer is happy with the device's performance.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was removed from the app.",
+        "category": "Device Removal",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User reported that the device is not turning on.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer praised the energy monitoring feature.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was successfully added to the network.",
+        "category": "Device Pairing",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to update the device location.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer reported that the device is not syncing.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Device firmware update improved battery life.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to enable dark mode.",
+        "category": "Feature Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer is satisfied with the device's reliability.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was reset due to persistent errors.",
+        "category": "Device Reset",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User reported that the device is not updating.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer appreciated the fast shipping.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was successfully configured.",
+        "category": "Device Configuration",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to disable automatic updates.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer reported that the device is not detecting motion.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Device firmware update added new security features.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to change notification settings.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer is happy with the device's design.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was removed from the group.",
+        "category": "Device Grouping",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User reported that the device is not working after update.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer praised the easy setup process.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was successfully updated.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to enable guest access.",
+        "category": "Feature Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer reported that the device is not responding.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Device firmware update fixed previous bugs.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to change the device icon.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer is satisfied with the device's speed.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was reset to resolve connectivity issues.",
+        "category": "Device Reset",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User reported that the device is not pairing.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer appreciated the helpful support team.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device firmware update was successful.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to enable notifications.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer reported that the device is not updating firmware.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Device firmware update improved performance.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to disable voice control.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer is happy with the device's features.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device was removed from the system.",
+        "category": "Device Removal",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "User reported that the device is not working properly.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    },
+    {
+        "remark_text": "Customer praised the device's build quality.",
+        "category": "Customer Feedback",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "Device firmware update added new automation options.",
+        "category": "Firmware Update",
+        "sentiment": "positive"
+    },
+    {
+        "remark_text": "User requested to change the device settings.",
+        "category": "User Request",
+        "sentiment": "neutral"
+    },
+    {
+        "remark_text": "Customer reported that the device is not connecting.",
+        "category": "Device Issue",
+        "sentiment": "negative"
+    }
+]

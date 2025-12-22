@@ -1,0 +1,98 @@
+remark_text,sentiment_from_traits,sentiment,matched_sentiment
+Customer requested a firmware update for improved performance.,positive,positive,matched
+Device was relocated to a different room as per user instructions.,negative,neutral,not matched
+User reported intermittent connectivity issues during peak hours.,negative,negative,matched
+Scheduled maintenance completed successfully with no errors.,positive,positive,matched
+System logs indicate a power surge event last night.,positive,negative,not matched
+Customer expressed satisfaction with the new lighting controls.,neutral,positive,not matched
+Device failed to respond to remote commands intermittently.,negative,negative,matched
+Firmware rollback was performed due to compatibility issues.,positive,neutral,not matched
+User requested additional training on system features.,negative,neutral,not matched
+Battery replacement resolved the connectivity problem.,positive,positive,matched
+Customer complained about slow response times.,negative,negative,matched
+System upgrade completed without any reported issues.,positive,positive,matched
+User reported that the app crashes frequently.,negative,negative,matched
+Device was reset to factory settings as per support instructions.,neutral,neutral,matched
+Customer praised the quick installation process.,positive,positive,matched
+Power outage caused temporary loss of service.,neutral,negative,not matched
+User requested integration with third-party smart home devices.,negative,neutral,not matched
+Firmware update introduced new features as expected.,neutral,positive,not matched
+Customer dissatisfied with the device's range.,neutral,negative,not matched
+Device was successfully paired with the mobile app.,positive,positive,matched
+User reported that scheduled events did not trigger.,negative,negative,matched
+Customer requested a demo of advanced features.,negative,neutral,not matched
+System logs show consistent operation over the past week.,positive,positive,matched
+Device was removed from the system as per user request.,negative,neutral,not matched
+User reported that the device is overheating.,negative,negative,matched
+Customer happy with the energy savings after installation.,neutral,positive,not matched
+Firmware update failed due to network error.,negative,negative,matched
+Device was added to a new group for automation.,positive,neutral,not matched
+User requested a replacement for a faulty device.,negative,negative,matched
+Customer appreciated the prompt technical support.,neutral,positive,not matched
+Device firmware is up to date.,neutral,positive,not matched
+User reported that the lights flicker occasionally.,negative,negative,matched
+System backup completed successfully.,positive,positive,matched
+Customer requested to disable certain notifications.,negative,neutral,not matched
+Device was unresponsive after the last update.,neutral,negative,not matched
+User is satisfied with the new scheduling feature.,neutral,positive,not matched
+Customer reported a delay in automation routines.,negative,negative,matched
+Device was successfully calibrated.,positive,positive,matched
+User requested more customization options.,negative,neutral,not matched
+Customer unhappy with the device's battery life.,neutral,negative,not matched
+Firmware update resolved previous connectivity issues.,negative,positive,not matched
+User reported that the device is making noise.,negative,negative,matched
+Customer requested a refund for a defective product.,negative,negative,matched
+Device was successfully integrated with Alexa.,positive,positive,matched
+User requested to change the device name.,negative,neutral,not matched
+Customer reported that the device is not charging.,negative,negative,matched
+System update improved overall stability.,positive,positive,matched
+User requested to reset the password.,negative,neutral,not matched
+Customer is pleased with the new user interface.,neutral,positive,not matched
+Device was replaced under warranty.,neutral,neutral,matched
+User reported that the device is not connecting to Wi-Fi.,negative,negative,matched
+Customer appreciated the detailed installation guide.,neutral,positive,not matched
+Device firmware update was postponed.,neutral,neutral,matched
+User reported that the device is not responding to voice commands.,negative,negative,matched
+Customer is happy with the device's performance.,neutral,positive,not matched
+Device was removed from the app.,negative,neutral,not matched
+User reported that the device is not turning on.,negative,negative,matched
+Customer praised the energy monitoring feature.,positive,positive,matched
+Device was successfully added to the network.,positive,positive,matched
+User requested to update the device location.,negative,neutral,not matched
+Customer reported that the device is not syncing.,negative,negative,matched
+Device firmware update improved battery life.,positive,positive,matched
+User requested to enable dark mode.,negative,neutral,not matched
+Customer is satisfied with the device's reliability.,neutral,positive,not matched
+Device was reset due to persistent errors.,positive,neutral,not matched
+User reported that the device is not updating.,negative,negative,matched
+Customer appreciated the fast shipping.,neutral,positive,not matched
+Device was successfully configured.,positive,positive,matched
+User requested to disable automatic updates.,negative,neutral,not matched
+Customer reported that the device is not detecting motion.,negative,negative,matched
+Device firmware update added new security features.,positive,positive,matched
+User requested to change notification settings.,negative,neutral,not matched
+Customer is happy with the device's design.,neutral,positive,not matched
+Device was removed from the group.,negative,neutral,not matched
+User reported that the device is not working after update.,negative,negative,matched
+Customer praised the easy setup process.,positive,positive,matched
+Device was successfully updated.,positive,positive,matched
+User requested to enable guest access.,negative,neutral,not matched
+Customer reported that the device is not responding.,negative,negative,matched
+Device firmware update fixed previous bugs.,negative,positive,not matched
+User requested to change the device icon.,negative,neutral,not matched
+Customer is satisfied with the device's speed.,neutral,positive,not matched
+Device was reset to resolve connectivity issues.,negative,neutral,not matched
+User reported that the device is not pairing.,negative,negative,matched
+Customer appreciated the helpful support team.,neutral,positive,not matched
+Device firmware update was successful.,positive,positive,matched
+User requested to enable notifications.,negative,neutral,not matched
+Customer reported that the device is not updating firmware.,negative,negative,matched
+Device firmware update improved performance.,positive,positive,matched
+User requested to disable voice control.,negative,neutral,not matched
+Customer is happy with the device's features.,neutral,positive,not matched
+Device was removed from the system.,negative,neutral,not matched
+User reported that the device is not working properly.,negative,negative,matched
+Customer praised the device's build quality.,positive,positive,matched
+Device firmware update added new automation options.,positive,positive,matched
+User requested to change the device settings.,negative,neutral,not matched
+Customer reported that the device is not connecting.,negative,negative,matched

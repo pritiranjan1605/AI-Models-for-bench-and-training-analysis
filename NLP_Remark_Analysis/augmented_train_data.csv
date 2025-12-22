@@ -1,0 +1,499 @@
+associate_id,associate_name,department,training_id,training_name,training_date,trainer_name,remark_text,sentiment
+EMP006,Arjun Desai,IT,T102,Python Basics,2025-11-12,S. Verma,Arjun quickly grasped programming concepts.,positive
+SYNTH_POS_53,Kirti Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Kirti's campaign was creative. (synthesized entry),positive
+SYNTH_POS_46,Meera Pillai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good listener. (additional feedback),positive
+EMP099,Kirti Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Kirti's campaign was creative.,positive
+SYNTH_POS_76,Manoj Pillai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (reviewed again),positive
+EMP065,Shweta Singh,IT,T102,Python Basics,2025-11-12,S. Verma,Shweta was attentive and quick to learn.,positive
+SYNTH_POS_6,Meera Pillai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good listener. (additional feedback),positive
+SYNTH_POS_104,Ankita Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankita's ideas were innovative. (synthesized entry),positive
+SYNTH_POS_87,Simran Kaur,IT,T102,Python Basics,2025-11-12,S. Verma,Simran completed all assignments on time. (extra note),positive
+SYNTH_POS_68,Meera Desai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good team player. (follow-up remark),positive
+EMP031,Komal Jain,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Komal contributed valuable insights.,positive
+SYNTH_POS_69,Kirti Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Kirti's campaign was creative. (reviewed again),positive
+SYNTH_POS_91,Meera Pillai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good listener. (synthesized entry),positive
+EMP063,Kirti Mehta,Sales,T108,Customer Service,2025-11-28,N. Desai,Kirti was polite and professional.,positive
+EMP061,Meena Nair,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meena was helpful in group activities.,positive
+EMP008,Deepak Jain,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Deepak excelled in practical exercises.,positive
+SYNTH_POS_57,Anjali Rao,Finance,T101,Leadership Skills,2025-11-10,R. Sharma,Anjali demonstrated excellent leadership qualities. (reviewed again),positive
+SYNTH_POS_80,Deepa Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Deepa's calculations were precise. (synthesized entry),positive
+SYNTH_POS_109,Praveen Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Praveen's work was accurate and timely. (reviewed again),positive
+SYNTH_POS_3,Arvind Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arvind's campaign analysis was excellent. (reviewed again),positive
+EMP027,Devendra Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Devendra's calculations were accurate.,positive
+SYNTH_POS_77,Anushka Rao,IT,T102,Python Basics,2025-11-12,S. Verma,Anushka was attentive and diligent. (extra note),positive
+SYNTH_POS_18,Sonali Desai,Sales,T108,Customer Service,2025-11-28,N. Desai,Sonali handled complaints effectively. (additional feedback),positive
+SYNTH_POS_75,Arjun Desai,IT,T102,Python Basics,2025-11-12,S. Verma,Arjun quickly grasped programming concepts. (reviewed again),positive
+EMP019,Anita Das,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Anita's campaign ideas were innovative.,positive
+EMP073,Sonali Mehta,Sales,T108,Customer Service,2025-11-28,N. Desai,Sonali handled queries efficiently.,positive
+SYNTH_POS_59,Prashant Singh,IT,T102,Python Basics,2025-11-12,S. Verma,Prashant completed all tasks efficiently. (additional feedback),positive
+SYNTH_POS_29,Sonali Desai,Sales,T108,Customer Service,2025-11-28,N. Desai,Sonali handled complaints effectively. (extra note),positive
+EMP071,Meera Desai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good team player.,positive
+SYNTH_POS_49,Anushka Rao,IT,T102,Python Basics,2025-11-12,S. Verma,Anushka was attentive and diligent. (synthesized entry),positive
+SYNTH_POS_84,Meena Nair,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meena was helpful in group activities. (reviewed again),positive
+SYNTH_POS_102,Manoj Pillai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (synthesized entry),positive
+SYNTH_POS_51,Ankit Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankit's campaign was well-structured. (synthesized entry),positive
+SYNTH_POS_88,Devendra Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Devendra's calculations were accurate. (follow-up remark),positive
+SYNTH_POS_37,Arvind Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arvind's campaign analysis was excellent. (extra note),positive
+SYNTH_POS_32,Deepa Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Deepa's calculations were precise. (reviewed again),positive
+SYNTH_POS_27,Shweta Singh,IT,T102,Python Basics,2025-11-12,S. Verma,Shweta was attentive and quick to learn. (additional feedback),positive
+SYNTH_POS_1,Extra Positive2,Sales,T111,Sales Excellence,2025-12-02,B. New,Displayed outstanding teamwork and leadership in challenging situations. (additional feedback),positive
+EMP029,Arvind Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arvind's campaign analysis was excellent.,positive
+SYNTH_POS_11,Geeta Menon,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Geeta was a good team player. (additional feedback),positive
+SYNTH_POS_45,Manoj Joshi,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Manoj handled case studies effectively. (synthesized entry),positive
+SYNTH_POS_23,Ankita Sharma,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankita's ideas were innovative. (reviewed again),positive
+SYNTH_POS_63,Simran Kaur,IT,T102,Python Basics,2025-11-12,S. Verma,Simran completed all assignments on time. (follow-up remark),positive
+EMP087,Manoj Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive.,positive
+SYNTH_POS_42,Sunil Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Sunil showed great enthusiasm during role plays. (follow-up remark),positive
+SYNTH_POS_8,Deepa Nair,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Deepa's work was detailed and precise. (additional feedback),positive
+EMP077,Praveen Nair,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Praveen's work was timely and accurate.,positive
+SYNTH_POS_92,Komal Jain,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Komal contributed valuable insights. (follow-up remark),positive
+SYNTH_POS_2,Manoj Pillai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (follow-up remark),positive
+SYNTH_POS_44,Extra Positive,IT,T110,Advanced Analytics,2025-12-01,A. New,The associate consistently exceeded expectations and provided innovative solutions to complex problems. (extra note),positive
+EMP057,Manoj Pillai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive.,positive
+SYNTH_POS_101,Arvind Shah,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Arvind was supportive in group tasks. (synthesized entry),positive
+EMP015,Simran Kaur,IT,T102,Python Basics,2025-11-12,S. Verma,Simran completed all assignments on time.,positive
+EMP067,Deepa Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Deepa's calculations were precise.,positive
+EMP025,Mehul Shah,IT,T102,Python Basics,2025-11-12,S. Verma,Mehul was quick to help peers.,positive
+SYNTH_POS_33,Sumit Kumar,Sales,T108,Customer Service,2025-11-28,N. Desai,Sumit was patient with customers. (reviewed again),positive
+SYNTH_POS_31,Ankit Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankit's campaign was well-structured. (follow-up remark),positive
+EMP053,Sumit Kumar,Sales,T108,Customer Service,2025-11-28,N. Desai,Sumit was patient with customers.,positive
+SYNTH_POS_110,Priya Singh,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Priya was highly engaged and contributed valuable insights. (reviewed again),positive
+SYNTH_POS_22,Manoj Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (extra note),positive
+SYNTH_POS_89,Neha Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Neha was quick to learn new concepts. (additional feedback),positive
+SYNTH_POS_43,Sonali Mehta,Sales,T108,Customer Service,2025-11-28,N. Desai,Sonali handled queries efficiently. (additional feedback),positive
+EMP023,Swati Agarwal,Sales,T108,Customer Service,2025-11-28,N. Desai,Swati handled customer queries efficiently.,positive
+EMP051,Arvind Nair,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Arvind was supportive in group tasks.,positive
+SYNTH_POS_35,Prashant Singh,IT,T102,Python Basics,2025-11-12,S. Verma,Prashant completed all tasks efficiently. (additional feedback),positive
+SYNTH_POS_85,Shweta Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Shweta was attentive and quick to learn. (additional feedback),positive
+SYNTH_POS_26,Meera Pillai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good listener. (follow-up remark),positive
+SYNTH_POS_60,Kirti Shah,Sales,T108,Customer Service,2025-11-28,N. Desai,Kirti was polite and professional. (reviewed again),positive
+SYNTH_POS_78,Arvind Nair,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Arvind was supportive in group tasks. (extra note),positive
+EMP021,Geeta Menon,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Geeta was a good team player.,positive
+EMP101,Extra Positive,IT,T110,Advanced Analytics,2025-12-01,A. New,The associate consistently exceeded expectations and provided innovative solutions to complex problems.,positive
+SYNTH_POS_24,Neha Sharma,IT,T102,Python Basics,2025-11-12,S. Verma,Neha was quick to understand concepts. (extra note),positive
+EMP093,Kirti Shah,Sales,T108,Customer Service,2025-11-28,N. Desai,Kirti was polite and professional.,positive
+SYNTH_POS_108,Preeti Reddy,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Preeti's analysis was thorough and accurate. (follow-up remark),positive
+SYNTH_POS_58,Kirti Sharma,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Kirti's ideas were practical and useful. (follow-up remark),positive
+SYNTH_POS_13,Extra Positive3,HR,T112,Employee Engagement,2025-12-03,C. New,Demonstrated exceptional communication and mentoring skills throughout the training. (additional feedback),positive
+EMP081,Arvind Shah,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Arvind was supportive in group tasks.,positive
+SYNTH_POS_0,Praveen Nair,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Praveen's work was timely and accurate. (additional feedback),positive
+SYNTH_POS_41,Extra Positive2,Sales,T111,Sales Excellence,2025-12-02,B. New,Displayed outstanding teamwork and leadership in challenging situations. (synthesized entry),positive
+SYNTH_POS_62,Manoj Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (extra note),positive
+SYNTH_POS_81,Anita Das,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Anita's campaign ideas were innovative. (reviewed again),positive
+SYNTH_POS_65,Kirti Nair,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Kirti's campaign was creative. (follow-up remark),positive
+SYNTH_POS_12,Praveen Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Praveen's work was accurate and timely. (additional feedback),positive
+SYNTH_POS_38,Kirti Shah,Sales,T108,Customer Service,2025-11-28,N. Desai,Kirti was polite and professional. (additional feedback),positive
+EMP045,Neha Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Neha was quick to learn new concepts.,positive
+SYNTH_POS_103,Arvind Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arvind's campaign analysis was excellent. (follow-up remark),positive
+EMP001,Priya Singh,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Priya was highly engaged and contributed valuable insights.,positive
+EMP089,Ankita Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankita's ideas were innovative.,positive
+SYNTH_POS_111,Manoj Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (synthesized entry),positive
+SYNTH_POS_67,Sheetal Shah,Sales,T108,Customer Service,2025-11-28,N. Desai,Sheetal was very polite with customers. (follow-up remark),positive
+SYNTH_POS_19,Extra Positive3,HR,T112,Employee Engagement,2025-12-03,C. New,Demonstrated exceptional communication and mentoring skills throughout the training. (synthesized entry),positive
+EMP037,Deepa Nair,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Deepa's work was detailed and precise.,positive
+SYNTH_POS_55,Arvind Nair,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Arvind was supportive in group tasks. (additional feedback),positive
+EMP033,Sheetal Shah,Sales,T108,Customer Service,2025-11-28,N. Desai,Sheetal was very polite with customers.,positive
+SYNTH_POS_96,Extra Positive3,HR,T112,Employee Engagement,2025-12-03,C. New,Demonstrated exceptional communication and mentoring skills throughout the training. (extra note),positive
+EMP039,Kirti Sharma,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Kirti's ideas were practical and useful.,positive
+EMP085,Prashant Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Prashant completed all tasks efficiently.,positive
+EMP079,Ankit Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankit's campaign was well-executed.,positive
+SYNTH_POS_34,Sumit Mehta,Sales,T108,Customer Service,2025-11-28,N. Desai,Sumit was patient with customers. (follow-up remark),positive
+EMP055,Prashant Singh,IT,T102,Python Basics,2025-11-12,S. Verma,Prashant completed all tasks efficiently.,positive
+SYNTH_EXTRA_0,Manoj Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (extra note) (auto-augmented),positive
+SYNTH_POS_16,Praveen Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Praveen's work was accurate and timely. (synthesized entry),positive
+SYNTH_POS_54,Preeti Reddy,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Preeti's analysis was thorough and accurate. (reviewed again),positive
+EMP102,Extra Positive2,Sales,T111,Sales Excellence,2025-12-02,B. New,Displayed outstanding teamwork and leadership in challenging situations.,positive
+SYNTH_POS_71,Arjun Desai,IT,T102,Python Basics,2025-11-12,S. Verma,Arjun quickly grasped programming concepts. (additional feedback),positive
+SYNTH_POS_82,Meera Desai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good team player. (follow-up remark),positive
+EMP017,Preeti Reddy,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Preeti's analysis was thorough and accurate.,positive
+EMP069,Kirti Nair,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Kirti's campaign was creative.,positive
+SYNTH_POS_28,Swati Agarwal,Sales,T108,Customer Service,2025-11-28,N. Desai,Swati handled customer queries efficiently. (reviewed again),positive
+SYNTH_POS_52,Devendra Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Devendra's calculations were accurate. (follow-up remark),positive
+EMP083,Sumit Mehta,Sales,T108,Customer Service,2025-11-28,N. Desai,Sumit was patient with customers.,positive
+SYNTH_POS_66,Devendra Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Devendra's calculations were accurate. (reviewed again),positive
+SYNTH_POS_21,Praveen Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Praveen's work was accurate and timely. (synthesized entry),positive
+SYNTH_POS_83,Devendra Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Devendra's calculations were accurate. (additional feedback),positive
+EMP043,Sonali Desai,Sales,T108,Customer Service,2025-11-28,N. Desai,Sonali handled complaints effectively.,positive
+SYNTH_POS_105,Priya Singh,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Priya was highly engaged and contributed valuable insights. (extra note),positive
+EMP041,Meera Pillai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good listener.,positive
+SYNTH_POS_95,Kirti Shah,Sales,T108,Customer Service,2025-11-28,N. Desai,Kirti was polite and professional. (extra note),positive
+SYNTH_EXTRA_1,Meera Desai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good team player. (auto-augmented),positive
+SYNTH_POS_15,Ankit Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankit's campaign was well-executed. (reviewed again),positive
+SYNTH_POS_10,Geeta Menon,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Geeta was a good team player. (extra note),positive
+SYNTH_POS_56,Extra Positive3,HR,T112,Employee Engagement,2025-12-03,C. New,Demonstrated exceptional communication and mentoring skills throughout the training. (additional feedback),positive
+SYNTH_POS_98,Arvind Nair,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Arvind was supportive in group tasks. (follow-up remark),positive
+SYNTH_POS_73,Amit Sinha,IT,T106,Data Security,2025-11-22,M. Singh,Amit was proactive in group activities. (reviewed again),positive
+SYNTH_POS_36,Komal Jain,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Komal contributed valuable insights. (additional feedback),positive
+SYNTH_POS_64,Kirti Shah,Sales,T108,Customer Service,2025-11-28,N. Desai,Kirti was polite and professional. (extra note),positive
+SYNTH_POS_4,Prashant Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Prashant completed all tasks efficiently. (reviewed again),positive
+EMP091,Meena Mehta,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meena was helpful in group activities.,positive
+SYNTH_POS_97,Praveen Singh,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Praveen's work was accurate and timely. (reviewed again),positive
+SYNTH_POS_40,Manoj Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (follow-up remark),positive
+SYNTH_POS_79,Manoj Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (follow-up remark),positive
+EMP049,Ankit Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankit's campaign was well-structured.,positive
+EMP075,Neha Sharma,IT,T102,Python Basics,2025-11-12,S. Verma,Neha was quick to understand concepts.,positive
+SYNTH_POS_47,Preeti Reddy,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Preeti's analysis was thorough and accurate. (extra note),positive
+EMP003,Anjali Rao,Finance,T101,Leadership Skills,2025-11-10,R. Sharma,Anjali demonstrated excellent leadership qualities.,positive
+SYNTH_POS_106,Ankit Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankit's campaign was well-structured. (synthesized entry),positive
+SYNTH_POS_72,Anjali Rao,Finance,T101,Leadership Skills,2025-11-10,R. Sharma,Anjali demonstrated excellent leadership qualities. (synthesized entry),positive
+SYNTH_POS_94,Anushka Rao,IT,T102,Python Basics,2025-11-12,S. Verma,Anushka was attentive and diligent. (extra note),positive
+SYNTH_POS_5,Simran Kaur,IT,T102,Python Basics,2025-11-12,S. Verma,Simran completed all assignments on time. (reviewed again),positive
+SYNTH_POS_14,Meera Desai,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Meera was a good team player. (reviewed again),positive
+SYNTH_POS_107,Manoj Joshi,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Manoj handled case studies effectively. (extra note),positive
+EMP012,Manoj Joshi,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Manoj handled case studies effectively.,positive
+SYNTH_POS_74,Sumit Mehta,Sales,T108,Customer Service,2025-11-28,N. Desai,Sumit was patient with customers. (synthesized entry),positive
+SYNTH_POS_70,Ankit Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankit's campaign was well-executed. (follow-up remark),positive
+SYNTH_POS_25,Anjali Rao,Finance,T101,Leadership Skills,2025-11-10,R. Sharma,Anjali demonstrated excellent leadership qualities. (synthesized entry),positive
+SYNTH_POS_93,Ankita Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankita's ideas were innovative. (reviewed again),positive
+EMP095,Shweta Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Shweta was attentive and quick to learn.,positive
+SYNTH_POS_86,Arvind Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arvind's campaign analysis was excellent. (follow-up remark),positive
+SYNTH_POS_48,Praveen Nair,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Praveen's work was timely and accurate. (additional feedback),positive
+EMP004,Sunil Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Sunil showed great enthusiasm during role plays.,positive
+EMP010,Amit Sinha,IT,T106,Data Security,2025-11-22,M. Singh,Amit was proactive in group activities.,positive
+EMP103,Extra Positive3,HR,T112,Employee Engagement,2025-12-03,C. New,Demonstrated exceptional communication and mentoring skills throughout the training.,positive
+SYNTH_POS_39,Extra Positive,IT,T110,Advanced Analytics,2025-12-01,A. New,The associate consistently exceeded expectations and provided innovative solutions to complex problems. (follow-up remark),positive
+SYNTH_POS_9,Neha Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Neha was quick to learn new concepts. (synthesized entry),positive
+SYNTH_POS_61,Manoj Joshi,HR,T107,Conflict Resolution,2025-11-25,S. Iyer,Manoj handled case studies effectively. (additional feedback),positive
+SYNTH_POS_17,Sunil Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Sunil showed great enthusiasm during role plays. (synthesized entry),positive
+SYNTH_POS_112,Simran Kaur,IT,T102,Python Basics,2025-11-12,S. Verma,Simran completed all assignments on time. (extra note),positive
+SYNTH_POS_90,Ankit Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankit's campaign was well-executed. (reviewed again),positive
+SYNTH_POS_20,Anjali Rao,Finance,T101,Leadership Skills,2025-11-10,R. Sharma,Anjali demonstrated excellent leadership qualities. (reviewed again),positive
+EMP059,Ankita Sharma,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankita's ideas were innovative.,positive
+SYNTH_POS_99,Ankit Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ankit's campaign was well-structured. (reviewed again),positive
+EMP035,Anushka Rao,IT,T102,Python Basics,2025-11-12,S. Verma,Anushka was attentive and diligent.,positive
+SYNTH_POS_7,Praveen Nair,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Praveen's work was timely and accurate. (synthesized entry),positive
+SYNTH_POS_50,Arjun Desai,IT,T102,Python Basics,2025-11-12,S. Verma,Arjun quickly grasped programming concepts. (follow-up remark),positive
+SYNTH_POS_30,Manoj Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Manoj's analysis was comprehensive. (follow-up remark),positive
+EMP097,Deepa Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Deepa's calculations were precise.,positive
+SYNTH_NEU_27,Meena Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Meena should focus more on campaign analytics. (synthesized entry),neutral
+SYNTH_NEU_92,Prashant Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Prashant should participate more. (follow-up remark),neutral
+SYNTH_NEU_20,Prashant Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Prashant should participate more. (additional feedback),neutral
+SYNTH_NEU_132,Prashant Joshi,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Prashant should participate more. (additional feedback),neutral
+SYNTH_NEU_18,Megha Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Megha should clarify doubts more often. (follow-up remark),neutral
+SYNTH_NEU_29,Satish Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (synthesized entry),neutral
+EMP042,Prashant Joshi,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Prashant should participate more.,neutral
+SYNTH_NEU_12,Manish Kumar,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Manish needs to improve leadership skills. (synthesized entry),neutral
+EMP013,Rekha Pillai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Rekha needs to participate more in discussions.,neutral
+SYNTH_NEU_99,Deepak Shah,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (synthesized entry),neutral
+EMP105,Extra Neutral2,Sales,T114,Sales Excellence,2025-12-05,E. New,Showed average participation and occasionally needed reminders to stay on task.,neutral
+SYNTH_NEU_79,Extra Neutral,IT,T113,Advanced Analytics,2025-12-04,D. New,The associate sometimes contributed but often remained quiet during group activities. (follow-up remark),neutral
+SYNTH_NEU_67,Deepak Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (synthesized entry),neutral
+SYNTH_NEU_7,Satish Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (additional feedback),neutral
+EMP076,Harsha Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Harsha should be more confident.,neutral
+EMP046,Harsha Reddy,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Harsha should be more assertive.,neutral
+SYNTH_NEU_122,Megha Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Megha should clarify doubts more often. (reviewed again),neutral
+EMP092,Sunil Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Sunil should ask more questions.,neutral
+SYNTH_NEU_37,Shreya Shah,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more. (reviewed again),neutral
+SYNTH_NEU_118,Prashant Joshi,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Prashant should participate more. (extra note),neutral
+SYNTH_NEU_28,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (reviewed again),neutral
+SYNTH_NEU_60,Ankita Roy,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Ankita should participate more in group tasks. (synthesized entry),neutral
+EMP018,Sachin Yadav,Sales,T108,Customer Service,2025-11-28,N. Desai,Sachin needs to be more patient with customers.,neutral
+SYNTH_NEU_57,Sunil Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Sunil should ask more questions. (reviewed again),neutral
+EMP009,Shweta Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shweta needs to improve her negotiation skills.,neutral
+SYNTH_NEU_15,Satish Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (additional feedback),neutral
+SYNTH_NEU_48,Shalini Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shalini needs to improve closing skills. (reviewed again),neutral
+SYNTH_NEU_55,Neha Shah,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Neha was attentive but needs to ask more questions. (additional feedback),neutral
+SYNTH_NEU_43,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (extra note),neutral
+SYNTH_NEU_105,Harsha Reddy,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Harsha should be more assertive. (extra note),neutral
+SYNTH_NEU_108,Shalini Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shalini needs to improve closing skills. (additional feedback),neutral
+EMP058,Deepak Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication.,neutral
+SYNTH_NEU_76,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (reviewed again),neutral
+SYNTH_NEU_25,Extra Neutral2,Sales,T114,Sales Excellence,2025-12-05,E. New,Showed average participation and occasionally needed reminders to stay on task. (additional feedback),neutral
+SYNTH_NEU_114,Extra Neutral2,Sales,T114,Sales Excellence,2025-12-05,E. New,Showed average participation and occasionally needed reminders to stay on task. (extra note),neutral
+SYNTH_NEU_107,Megha Desai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Megha should clarify doubts more often. (reviewed again),neutral
+SYNTH_NEU_81,Shalini Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shalini needs to improve closing skills. (synthesized entry),neutral
+SYNTH_NEU_34,Extra Neutral,IT,T113,Advanced Analytics,2025-12-04,D. New,The associate sometimes contributed but often remained quiet during group activities. (reviewed again),neutral
+EMP088,Deepak Shah,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication.,neutral
+SYNTH_NEU_84,Shreya Shah,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more. (synthesized entry),neutral
+SYNTH_NEU_75,Shalini Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shalini needs to improve closing skills. (additional feedback),neutral
+EMP066,Manish Desai,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Manish should be more proactive.,neutral
+SYNTH_NEU_58,Sachin Yadav,Sales,T108,Customer Service,2025-11-28,N. Desai,Sachin needs to be more patient with customers. (reviewed again),neutral
+SYNTH_NEU_0,Sachin Yadav,Sales,T108,Customer Service,2025-11-28,N. Desai,Sachin needs to be more patient with customers. (additional feedback),neutral
+EMP028,Shilpa Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shilpa needs to improve product knowledge.,neutral
+SYNTH_NEU_61,Sachin Yadav,Sales,T108,Customer Service,2025-11-28,N. Desai,Sachin needs to be more patient with customers. (reviewed again),neutral
+SYNTH_NEU_131,Shalini Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shalini needs to improve closing skills. (reviewed again),neutral
+SYNTH_NEU_87,Harish Patel,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Harish needs to improve attention to detail. (additional feedback),neutral
+EMP007,Neha Shah,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Neha was attentive but needs to ask more questions.,neutral
+SYNTH_NEU_115,Harish Patel,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Harish needs to improve attention to detail. (additional feedback),neutral
+SYNTH_NEU_13,Manish Kumar,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Manish needs to improve leadership skills. (follow-up remark),neutral
+SYNTH_NEU_98,Deepak Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (reviewed again),neutral
+SYNTH_NEU_93,Shilpa Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shilpa needs to improve product knowledge. (additional feedback),neutral
+EMP104,Extra Neutral,IT,T113,Advanced Analytics,2025-12-04,D. New,The associate sometimes contributed but often remained quiet during group activities.,neutral
+SYNTH_NEU_39,Sunil Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Sunil should ask more questions. (synthesized entry),neutral
+SYNTH_NEU_54,Shreya Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more. (extra note),neutral
+SYNTH_NEU_97,Extra Neutral3,HR,T115,Employee Engagement,2025-12-06,F. New,Demonstrated a balanced approach but lacked initiative in some exercises. (extra note),neutral
+EMP082,Megha Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Megha should clarify doubts more often.,neutral
+SYNTH_NEU_94,Shweta Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shweta needs to improve her negotiation skills. (synthesized entry),neutral
+EMP005,Meena Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Meena should focus more on campaign analytics.,neutral
+SYNTH_NEU_126,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (reviewed again),neutral
+SYNTH_NEU_56,Rekha Pillai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Rekha needs to participate more in discussions. (synthesized entry),neutral
+SYNTH_NEU_50,Sunil Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Sunil should ask more questions. (reviewed again),neutral
+SYNTH_NEU_100,Abhishek Singh,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek needs to improve technical skills. (reviewed again),neutral
+SYNTH_NEU_127,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (extra note),neutral
+SYNTH_NEU_103,Extra Neutral2,Sales,T114,Sales Excellence,2025-12-05,E. New,Showed average participation and occasionally needed reminders to stay on task. (extra note),neutral
+EMP062,Sunil Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Sunil should ask more questions.,neutral
+SYNTH_NEU_112,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (extra note),neutral
+EMP036,Manish Kumar,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Manish needs to improve leadership skills.,neutral
+SYNTH_NEU_42,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (follow-up remark),neutral
+SYNTH_NEU_9,Deepak Shah,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (extra note),neutral
+SYNTH_NEU_74,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (extra note),neutral
+SYNTH_NEU_129,Ankita Roy,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Ankita should participate more in group tasks. (follow-up remark),neutral
+SYNTH_NEU_22,Meena Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Meena should focus more on campaign analytics. (extra note),neutral
+SYNTH_NEU_71,Satish Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (follow-up remark),neutral
+SYNTH_NEU_82,Neha Shah,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Neha was attentive but needs to ask more questions. (synthesized entry),neutral
+SYNTH_NEU_3,Shalini Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shalini needs to improve closing skills. (reviewed again),neutral
+SYNTH_NEU_121,Satish Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (reviewed again),neutral
+EMP052,Megha Desai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Megha should clarify doubts more often.,neutral
+SYNTH_NEU_96,Extra Neutral,IT,T113,Advanced Analytics,2025-12-04,D. New,The associate sometimes contributed but often remained quiet during group activities. (follow-up remark),neutral
+SYNTH_NEU_17,Harish Patel,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Harish needs to improve attention to detail. (synthesized entry),neutral
+SYNTH_NEU_45,Shalini Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shalini needs to improve closing skills. (additional feedback),neutral
+EMP026,Ankita Roy,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Ankita should participate more in group tasks.,neutral
+EMP098,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more.,neutral
+SYNTH_NEU_89,Meena Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Meena should focus more on campaign analytics. (reviewed again),neutral
+SYNTH_NEU_85,Shweta Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shweta needs to improve her negotiation skills. (reviewed again),neutral
+SYNTH_NEU_77,Sachin Yadav,Sales,T108,Customer Service,2025-11-28,N. Desai,Sachin needs to be more patient with customers. (reviewed again),neutral
+SYNTH_NEU_36,Shreya Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more. (follow-up remark),neutral
+SYNTH_NEU_5,Harish Patel,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Harish needs to improve attention to detail. (extra note),neutral
+SYNTH_NEU_35,Abhishek Singh,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek needs to improve technical skills. (reviewed again),neutral
+SYNTH_NEU_6,Extra Neutral,IT,T113,Advanced Analytics,2025-12-04,D. New,The associate sometimes contributed but often remained quiet during group activities. (synthesized entry),neutral
+SYNTH_NEU_2,Extra Neutral,IT,T113,Advanced Analytics,2025-12-04,D. New,The associate sometimes contributed but often remained quiet during group activities. (additional feedback),neutral
+SYNTH_NEU_16,Shweta Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shweta needs to improve her negotiation skills. (additional feedback),neutral
+SYNTH_NEU_38,Sunil Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Sunil should ask more questions. (synthesized entry),neutral
+SYNTH_NEU_14,Megha Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Megha should clarify doubts more often. (synthesized entry),neutral
+EMP022,Harish Patel,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Harish needs to improve attention to detail.,neutral
+SYNTH_NEU_110,Harsha Reddy,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Harsha should be more assertive. (extra note),neutral
+EMP040,Abhishek Singh,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek needs to improve technical skills.,neutral
+SYNTH_NEU_64,Shreya Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more. (synthesized entry),neutral
+SYNTH_NEU_10,Sunil Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Sunil should ask more questions. (synthesized entry),neutral
+SYNTH_NEU_4,Manish Kumar,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Manish needs to improve leadership skills. (reviewed again),neutral
+EMP086,Shreya Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more.,neutral
+SYNTH_NEU_72,Meena Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Meena should focus more on campaign analytics. (extra note),neutral
+SYNTH_NEU_44,Megha Desai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Megha should clarify doubts more often. (additional feedback),neutral
+SYNTH_NEU_95,Prashant Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Prashant should participate more. (reviewed again),neutral
+SYNTH_NEU_86,Deepak Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (additional feedback),neutral
+SYNTH_NEU_91,Ajay Kumar,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Ajay should work on communication skills. (additional feedback),neutral
+SYNTH_NEU_124,Shreya Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more. (synthesized entry),neutral
+SYNTH_NEU_41,Shilpa Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shilpa needs to improve product knowledge. (synthesized entry),neutral
+SYNTH_NEU_113,Shreya Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more. (extra note),neutral
+SYNTH_NEU_106,Extra Neutral3,HR,T115,Employee Engagement,2025-12-06,F. New,Demonstrated a balanced approach but lacked initiative in some exercises. (extra note),neutral
+SYNTH_NEU_32,Deepak Shah,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (synthesized entry),neutral
+SYNTH_NEU_47,Extra Neutral2,Sales,T114,Sales Excellence,2025-12-05,E. New,Showed average participation and occasionally needed reminders to stay on task. (follow-up remark),neutral
+SYNTH_NEU_21,Satish Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (follow-up remark),neutral
+SYNTH_NEU_66,Harsha Reddy,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Harsha should be more assertive. (reviewed again),neutral
+EMP072,Prashant Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Prashant should participate more.,neutral
+SYNTH_NEU_23,Megha Mehta,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Megha should clarify doubts more often. (reviewed again),neutral
+SYNTH_NEU_80,Harish Patel,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Harish needs to improve attention to detail. (additional feedback),neutral
+EMP056,Shreya Shah,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more.,neutral
+SYNTH_NEU_78,Abhishek Singh,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek needs to improve technical skills. (additional feedback),neutral
+SYNTH_NEU_70,Deepak Shah,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (extra note),neutral
+SYNTH_NEU_133,Rahul Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Rahul needs to participate more actively in discussions. (extra note),neutral
+SYNTH_NEU_8,Sachin Yadav,Sales,T108,Customer Service,2025-11-28,N. Desai,Sachin needs to be more patient with customers. (extra note),neutral
+SYNTH_NEU_90,Extra Neutral2,Sales,T114,Sales Excellence,2025-12-05,E. New,Showed average participation and occasionally needed reminders to stay on task. (additional feedback),neutral
+SYNTH_NEU_119,Deepak Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (follow-up remark),neutral
+SYNTH_NEU_101,Meena Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Meena should focus more on campaign analytics. (synthesized entry),neutral
+SYNTH_NEU_46,Extra Neutral2,Sales,T114,Sales Excellence,2025-12-05,E. New,Showed average participation and occasionally needed reminders to stay on task. (follow-up remark),neutral
+SYNTH_NEU_40,Extra Neutral3,HR,T115,Employee Engagement,2025-12-06,F. New,Demonstrated a balanced approach but lacked initiative in some exercises. (additional feedback),neutral
+SYNTH_NEU_51,Abhishek Singh,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek needs to improve technical skills. (synthesized entry),neutral
+SYNTH_NEU_123,Deepak Shah,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (reviewed again),neutral
+SYNTH_NEU_53,Manish Desai,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Manish should be more proactive. (additional feedback),neutral
+SYNTH_NEU_111,Harsha Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Harsha should be more confident. (follow-up remark),neutral
+SYNTH_NEU_24,Abhishek Singh,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek needs to improve technical skills. (extra note),neutral
+SYNTH_NEU_120,Shalini Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shalini needs to improve closing skills. (additional feedback),neutral
+SYNTH_NEU_62,Deepak Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (follow-up remark),neutral
+SYNTH_NEU_109,Harish Patel,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Harish needs to improve attention to detail. (additional feedback),neutral
+SYNTH_NEU_30,Rahul Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Rahul needs to participate more actively in discussions. (additional feedback),neutral
+SYNTH_NEU_26,Ajay Kumar,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Ajay should work on communication skills. (follow-up remark),neutral
+EMP106,Extra Neutral3,HR,T115,Employee Engagement,2025-12-06,F. New,Demonstrated a balanced approach but lacked initiative in some exercises.,neutral
+SYNTH_NEU_1,Manish Desai,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Manish should be more proactive. (additional feedback),neutral
+SYNTH_NEU_73,Manish Desai,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Manish should be more proactive. (synthesized entry),neutral
+SYNTH_NEU_68,Deepak Shah,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Deepak needs to improve communication. (reviewed again),neutral
+SYNTH_NEU_88,Shweta Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shweta needs to improve her negotiation skills. (additional feedback),neutral
+SYNTH_NEU_65,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (extra note),neutral
+EMP068,Satish Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more.,neutral
+SYNTH_NEU_134,Shreya Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Shreya should participate more. (synthesized entry),neutral
+SYNTH_NEU_11,Harsha Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Harsha should be more confident. (extra note),neutral
+SYNTH_NEU_33,Prashant Shah,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Prashant should participate more. (synthesized entry),neutral
+SYNTH_NEU_117,Megha Desai,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Megha should clarify doubts more often. (additional feedback),neutral
+SYNTH_NEU_116,Satish Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (additional feedback),neutral
+SYNTH_NEU_130,Extra Neutral,IT,T113,Advanced Analytics,2025-12-04,D. New,The associate sometimes contributed but often remained quiet during group activities. (extra note),neutral
+EMP048,Shalini Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shalini needs to improve closing skills.,neutral
+SYNTH_NEU_128,Prashant Joshi,Finance,T105,Financial Modeling,2025-11-20,K. Rao,Prashant should participate more. (reviewed again),neutral
+SYNTH_NEU_49,Extra Neutral2,Sales,T114,Sales Excellence,2025-12-05,E. New,Showed average participation and occasionally needed reminders to stay on task. (additional feedback),neutral
+SYNTH_NEU_125,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (extra note),neutral
+SYNTH_NEU_104,Shweta Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shweta needs to improve her negotiation skills. (reviewed again),neutral
+SYNTH_NEU_59,Satish Kumar,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish needs to focus more. (extra note),neutral
+SYNTH_NEU_19,Neha Shah,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Neha was attentive but needs to ask more questions. (follow-up remark),neutral
+SYNTH_NEU_83,Harsha Reddy,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Harsha should be more assertive. (reviewed again),neutral
+SYNTH_NEU_102,Shilpa Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shilpa needs to improve product knowledge. (synthesized entry),neutral
+SYNTH_NEU_69,Ankita Roy,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Ankita should participate more in group tasks. (follow-up remark),neutral
+EMP002,Rahul Mehta,IT,T102,Python Basics,2025-11-12,S. Verma,Rahul needs to participate more actively in discussions.,neutral
+EMP016,Ajay Kumar,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Ajay should work on communication skills.,neutral
+SYNTH_NEU_52,Harsha Mehta,HR,T101,Leadership Skills,2025-11-10,R. Sharma,Harsha should be more confident. (additional feedback),neutral
+SYNTH_NEU_63,Shweta Nair,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Shweta needs to improve her negotiation skills. (synthesized entry),neutral
+SYNTH_NEU_31,Abhishek Singh,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek needs to improve technical skills. (follow-up remark),neutral
+SYNTH_NEG_102,Divya Kapoor,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Divya's project lacked depth in analysis. (synthesized entry),negative
+SYNTH_NEG_35,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts. (extra note),negative
+SYNTH_NEG_87,Divya Sharma,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (follow-up remark),negative
+SYNTH_NEG_80,Extra Negative3,HR,T118,Employee Engagement,2025-12-09,I. New,Showed little interest and failed to complete most assignments. (synthesized entry),negative
+SYNTH_NEG_141,Extra Negative2,Sales,T117,Sales Excellence,2025-12-08,H. New,Struggled to keep up with the group and needed frequent assistance. (follow-up remark),negative
+SYNTH_NEG_104,Anjali Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Anjali's project lacked research. (follow-up remark),negative
+SYNTH_NEG_38,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (reviewed again),negative
+SYNTH_NEG_42,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class. (reviewed again),negative
+EMP080,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class.,negative
+SYNTH_NEG_53,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (additional feedback),negative
+SYNTH_NEG_14,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts. (extra note),negative
+SYNTH_NEG_55,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts. (additional feedback),negative
+SYNTH_NEG_115,Extra Negative5,Marketing,T120,Digital Marketing,2025-12-11,K. New,The project submission was incomplete and lacked analysis. (additional feedback),negative
+SYNTH_NEG_33,Extra Negative5,Marketing,T120,Digital Marketing,2025-12-11,K. New,The project submission was incomplete and lacked analysis. (additional feedback),negative
+SYNTH_NEG_108,Divya Sharma,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (follow-up remark),negative
+SYNTH_NEG_83,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class. (follow-up remark),negative
+EMP108,Extra Negative2,Sales,T117,Sales Excellence,2025-12-08,H. New,Struggled to keep up with the group and needed frequent assistance.,negative
+SYNTH_NEG_133,Divya Sharma,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (additional feedback),negative
+EMP094,Arun Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete.,negative
+SYNTH_NEG_15,Extra Negative4,Finance,T119,Financial Modeling,2025-12-10,J. New,Had difficulty understanding instructions and required repeated explanations. (additional feedback),negative
+EMP038,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities.,negative
+SYNTH_NEG_37,Extra Negative,IT,T116,Advanced Analytics,2025-12-07,G. New,The associate rarely participated and often missed key concepts during the training. (synthesized entry),negative
+SYNTH_NEG_120,Extra Negative4,Finance,T119,Financial Modeling,2025-12-10,J. New,Had difficulty understanding instructions and required repeated explanations. (follow-up remark),negative
+EMP014,Varun Bhatia,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Varun was not attentive during the session.,negative
+SYNTH_NEG_18,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (extra note),negative
+SYNTH_NEG_49,Extra Negative2,Sales,T117,Sales Excellence,2025-12-08,H. New,Struggled to keep up with the group and needed frequent assistance. (synthesized entry),negative
+SYNTH_NEG_4,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (additional feedback),negative
+SYNTH_NEG_9,Ajay Desai,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments. (extra note),negative
+SYNTH_NEG_17,Varun Bhatia,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Varun was not attentive during the session. (follow-up remark),negative
+SYNTH_NEG_56,Ajit Nair,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was not detailed. (extra note),negative
+SYNTH_NEG_47,Extra Negative3,HR,T118,Employee Engagement,2025-12-09,I. New,Showed little interest and failed to complete most assignments. (extra note),negative
+SYNTH_NEG_119,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (additional feedback),negative
+SYNTH_NEG_110,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (follow-up remark),negative
+SYNTH_NEG_68,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class. (follow-up remark),negative
+SYNTH_NEG_65,Anjali Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Anjali's project lacked research. (follow-up remark),negative
+SYNTH_NEG_79,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (reviewed again),negative
+SYNTH_NEG_36,Neeraj Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Neeraj was distracted during the session. (synthesized entry),negative
+SYNTH_NEG_138,Extra Negative,IT,T116,Advanced Analytics,2025-12-07,G. New,The associate rarely participated and often missed key concepts during the training. (extra note),negative
+SYNTH_NEG_109,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (reviewed again),negative
+SYNTH_NEG_114,Extra Negative5,Marketing,T120,Digital Marketing,2025-12-11,K. New,The project submission was incomplete and lacked analysis. (additional feedback),negative
+SYNTH_NEG_124,Neeraj Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Neeraj was distracted during the session. (extra note),negative
+SYNTH_NEG_106,Divya Sharma,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (synthesized entry),negative
+SYNTH_NEG_39,Extra Negative3,HR,T118,Employee Engagement,2025-12-09,I. New,Showed little interest and failed to complete most assignments. (additional feedback),negative
+SYNTH_NEG_118,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (additional feedback),negative
+SYNTH_NEG_91,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (follow-up remark),negative
+SYNTH_NEG_132,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (synthesized entry),negative
+SYNTH_NEG_28,Ajay Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments. (synthesized entry),negative
+SYNTH_NEG_78,Extra Negative5,Marketing,T120,Digital Marketing,2025-12-11,K. New,The project submission was incomplete and lacked analysis. (synthesized entry),negative
+SYNTH_NEG_7,Extra Negative,IT,T116,Advanced Analytics,2025-12-07,G. New,The associate rarely participated and often missed key concepts during the training. (extra note),negative
+EMP034,Parag Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Parag's project lacked creativity.,negative
+SYNTH_NEG_2,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (synthesized entry),negative
+SYNTH_NEG_44,Ajit Nair,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was not detailed. (synthesized entry),negative
+SYNTH_NEG_117,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts. (follow-up remark),negative
+SYNTH_NEG_94,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (additional feedback),negative
+SYNTH_NEG_22,Divya Kapoor,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Divya's project lacked depth in analysis. (extra note),negative
+SYNTH_NEG_70,Varun Bhatia,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Varun was not attentive during the session. (follow-up remark),negative
+SYNTH_NEG_95,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (synthesized entry),negative
+SYNTH_NEG_3,Ajay Desai,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments. (additional feedback),negative
+SYNTH_NEG_63,Parag Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Parag's project lacked creativity. (follow-up remark),negative
+SYNTH_NEG_72,Pranav Joshi,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Pranav's presentation was not clear. (additional feedback),negative
+SYNTH_NEG_64,Extra Negative4,Finance,T119,Financial Modeling,2025-12-10,J. New,Had difficulty understanding instructions and required repeated explanations. (reviewed again),negative
+SYNTH_NEG_23,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (reviewed again),negative
+SYNTH_NEG_98,Arun Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (reviewed again),negative
+SYNTH_NEG_100,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts. (additional feedback),negative
+SYNTH_NEG_50,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (reviewed again),negative
+SYNTH_NEG_40,Divya Sharma,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (synthesized entry),negative
+EMP060,Ajay Desai,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments.,negative
+SYNTH_NEG_8,Extra Negative5,Marketing,T120,Digital Marketing,2025-12-11,K. New,The project submission was incomplete and lacked analysis. (extra note),negative
+SYNTH_NEG_58,Pranav Joshi,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Pranav's presentation was not clear. (synthesized entry),negative
+SYNTH_NEG_101,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts. (additional feedback),negative
+SYNTH_NEG_61,Pranav Joshi,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Pranav's presentation was not clear. (follow-up remark),negative
+EMP020,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts.,negative
+SYNTH_NEG_135,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (synthesized entry),negative
+EMP110,Extra Negative4,Finance,T119,Financial Modeling,2025-12-10,J. New,Had difficulty understanding instructions and required repeated explanations.,negative
+SYNTH_NEG_21,Extra Negative3,HR,T118,Employee Engagement,2025-12-09,I. New,Showed little interest and failed to complete most assignments. (synthesized entry),negative
+SYNTH_NEG_60,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (follow-up remark),negative
+EMP064,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete.,negative
+SYNTH_NEG_59,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class. (synthesized entry),negative
+SYNTH_NEG_96,Ajay Desai,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments. (follow-up remark),negative
+EMP107,Extra Negative,IT,T116,Advanced Analytics,2025-12-07,G. New,The associate rarely participated and often missed key concepts during the training.,negative
+SYNTH_NEG_93,Divya Kapoor,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Divya's project lacked depth in analysis. (synthesized entry),negative
+SYNTH_NEG_5,Extra Negative3,HR,T118,Employee Engagement,2025-12-09,I. New,Showed little interest and failed to complete most assignments. (reviewed again),negative
+SYNTH_NEG_126,Ajit Nair,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was not detailed. (extra note),negative
+SYNTH_NEG_140,Arun Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (additional feedback),negative
+SYNTH_NEG_123,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts. (reviewed again),negative
+SYNTH_NEG_142,Pranav Joshi,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Pranav's presentation was not clear. (follow-up remark),negative
+SYNTH_NEG_129,Neeraj Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Neeraj was distracted during the session. (additional feedback),negative
+SYNTH_NEG_30,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (additional feedback),negative
+EMP111,Extra Negative5,Marketing,T120,Digital Marketing,2025-12-11,K. New,The project submission was incomplete and lacked analysis.,negative
+SYNTH_NEG_16,Extra Negative3,HR,T118,Employee Engagement,2025-12-09,I. New,Showed little interest and failed to complete most assignments. (extra note),negative
+SYNTH_NEG_125,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (synthesized entry),negative
+SYNTH_NEG_0,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (additional feedback),negative
+SYNTH_NEG_97,Extra Negative,IT,T116,Advanced Analytics,2025-12-07,G. New,The associate rarely participated and often missed key concepts during the training. (additional feedback),negative
+SYNTH_NEG_52,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (synthesized entry),negative
+SYNTH_NEG_29,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (synthesized entry),negative
+SYNTH_NEG_24,Extra Negative4,Finance,T119,Financial Modeling,2025-12-10,J. New,Had difficulty understanding instructions and required repeated explanations. (reviewed again),negative
+SYNTH_NEG_77,Ajit Nair,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was not detailed. (additional feedback),negative
+SYNTH_NEG_32,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (additional feedback),negative
+SYNTH_NEG_57,Arun Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (synthesized entry),negative
+SYNTH_NEG_27,Anjali Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Anjali's project lacked research. (additional feedback),negative
+SYNTH_NEG_75,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (synthesized entry),negative
+EMP050,Divya Sharma,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class.,negative
+SYNTH_NEG_1,Extra Negative2,Sales,T117,Sales Excellence,2025-12-08,H. New,Struggled to keep up with the group and needed frequent assistance. (additional feedback),negative
+SYNTH_NEG_112,Divya Kapoor,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Divya's project lacked depth in analysis. (extra note),negative
+EMP030,Neeraj Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Neeraj was distracted during the session.,negative
+SYNTH_NEG_134,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (follow-up remark),negative
+EMP011,Divya Kapoor,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Divya's project lacked depth in analysis.,negative
+SYNTH_NEG_46,Divya Sharma,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (reviewed again),negative
+SYNTH_NEG_19,Parag Patel,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Parag's project lacked creativity. (follow-up remark),negative
+SYNTH_NEG_62,Varun Bhatia,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Varun was not attentive during the session. (reviewed again),negative
+SYNTH_NEG_41,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (additional feedback),negative
+SYNTH_NEG_66,Pranav Joshi,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Pranav's presentation was not clear. (extra note),negative
+SYNTH_NEG_111,Varun Bhatia,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Varun was not attentive during the session. (synthesized entry),negative
+EMP054,Anjali Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Anjali's project lacked research.,negative
+EMP044,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete.,negative
+SYNTH_NEG_137,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class. (reviewed again),negative
+SYNTH_NEG_11,Extra Negative3,HR,T118,Employee Engagement,2025-12-09,I. New,Showed little interest and failed to complete most assignments. (extra note),negative
+EMP074,Ajit Nair,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was not detailed.,negative
+SYNTH_NEG_86,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class. (follow-up remark),negative
+SYNTH_NEG_107,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (reviewed again),negative
+SYNTH_NEG_25,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (follow-up remark),negative
+SYNTH_NEG_6,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (reviewed again),negative
+SYNTH_NEG_113,Ajay Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments. (follow-up remark),negative
+SYNTH_NEG_20,Varun Bhatia,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Varun was not attentive during the session. (extra note),negative
+SYNTH_NEG_54,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (synthesized entry),negative
+SYNTH_NEG_81,Ajay Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments. (follow-up remark),negative
+SYNTH_NEG_85,Extra Negative3,HR,T118,Employee Engagement,2025-12-09,I. New,Showed little interest and failed to complete most assignments. (reviewed again),negative
+SYNTH_NEG_74,Ajay Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments. (synthesized entry),negative
+SYNTH_NEG_92,Divya Sharma,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (synthesized entry),negative
+EMP100,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class.,negative
+SYNTH_NEG_73,Ajit Nair,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was not detailed. (extra note),negative
+SYNTH_NEG_136,Anjali Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Anjali's project lacked research. (synthesized entry),negative
+SYNTH_NEG_116,Neeraj Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Neeraj was distracted during the session. (extra note),negative
+SYNTH_NEG_128,Divya Kapoor,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Divya's project lacked depth in analysis. (additional feedback),negative
+SYNTH_NEG_139,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (reviewed again),negative
+SYNTH_NEG_82,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class. (reviewed again),negative
+SYNTH_NEG_127,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts. (synthesized entry),negative
+SYNTH_NEG_51,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (synthesized entry),negative
+SYNTH_NEG_121,Rakesh Singh,IT,T106,Data Security,2025-11-22,M. Singh,Rakesh struggled with technical concepts. (reviewed again),negative
+SYNTH_NEG_122,Divya Kapoor,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Divya's project lacked depth in analysis. (follow-up remark),negative
+EMP109,Extra Negative3,HR,T118,Employee Engagement,2025-12-09,I. New,Showed little interest and failed to complete most assignments.,negative
+SYNTH_NEG_67,Extra Negative4,Finance,T119,Financial Modeling,2025-12-10,J. New,Had difficulty understanding instructions and required repeated explanations. (reviewed again),negative
+SYNTH_NEG_12,Pranav Joshi,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Pranav's presentation was not clear. (additional feedback),negative
+SYNTH_NEG_34,Extra Negative2,Sales,T117,Sales Excellence,2025-12-08,H. New,Struggled to keep up with the group and needed frequent assistance. (synthesized entry),negative
+EMP070,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class.,negative
+EMP024,Pranav Joshi,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Pranav's presentation was not clear.,negative
+SYNTH_NEG_69,Arun Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (extra note),negative
+SYNTH_NEG_131,Ajit Nair,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was not detailed. (reviewed again),negative
+SYNTH_NEG_76,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (additional feedback),negative
+SYNTH_NEG_71,Anjali Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Anjali's project lacked research. (additional feedback),negative
+EMP090,Ajay Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments.,negative
+SYNTH_NEG_45,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class. (additional feedback),negative
+SYNTH_NEG_90,Divya Kapoor,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Divya's project lacked depth in analysis. (synthesized entry),negative
+SYNTH_NEG_31,Extra Negative,IT,T116,Advanced Analytics,2025-12-07,G. New,The associate rarely participated and often missed key concepts during the training. (follow-up remark),negative
+SYNTH_NEG_48,Varun Bhatia,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Varun was not attentive during the session. (additional feedback),negative
+SYNTH_NEG_105,Satish Mehta,Sales,T103,Sales Mastery,2025-11-15,A. Gupta,Satish was not focused during activities. (follow-up remark),negative
+SYNTH_NEG_88,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (reviewed again),negative
+SYNTH_NEG_99,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (follow-up remark),negative
+SYNTH_NEG_103,Neeraj Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Neeraj was distracted during the session. (reviewed again),negative
+SYNTH_NEG_10,Ajay Desai,IT,T106,Data Security,2025-11-22,M. Singh,Ajay struggled with assignments. (reviewed again),negative
+SYNTH_NEG_26,Arun Mehta,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Arun's project was incomplete. (reviewed again),negative
+SYNTH_NEG_130,Extra Negative5,Marketing,T120,Digital Marketing,2025-12-11,K. New,The project submission was incomplete and lacked analysis. (additional feedback),negative
+SYNTH_NEG_43,Pranav Joshi,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Pranav's presentation was not clear. (additional feedback),negative
+SYNTH_NEG_13,Ajit Kumar,Marketing,T104,Digital Marketing,2025-11-18,P. Joshi,Ajit's analysis was incomplete. (reviewed again),negative
+SYNTH_NEG_89,Abhishek Mehta,IT,T106,Data Security,2025-11-22,M. Singh,Abhishek was not focused in class. (extra note),negative
+SYNTH_NEG_84,Divya Nair,IT,T106,Data Security,2025-11-22,M. Singh,Divya was not attentive in class. (additional feedback),negative

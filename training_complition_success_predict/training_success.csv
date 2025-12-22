@@ -1,0 +1,101 @@
+Emp_Id,Grade,Department,Primary_Skill,Secondary_Skill,Course_Category,Duration_Hours,Delivery_Mode,Business_Priority,Skill_Gap_Score,Availability_Hours_Per_Week,Bench_Status,Performance_Rating,Learning_Style,Career_Goal,Completion_Percentage,Assessment_Score,Training_Success
+E001,G5,Engineering,Java,Spring Boot,Backend,50.0,Hybrid,High,0.25,0.0,Active,4.2,Hands-on,Tech Lead,100.0,85.0,Pass
+E002,G3,Engineering,JavaScript,React,Development,45.0,Online,High,0.3,0.0,Active,3.8,Visual,Senior Developer,100.0,78.0,Pass
+E003,G6,Engineering,Java,Microservices,Architecture,70.0,Hybrid,Critical,0.4,10.0,Active,4.5,Reading,Architect,65.0,0.0,Fail
+E004,G3,IT Support,Linux,Shell Scripting,Infrastructure,40.0,Hybrid,High,0.2,0.0,Active,3.6,Hands-on,DevOps Engineer,100.0,82.0,Pass
+E005,G5,Engineering,Go,Kubernetes,DevOps,50.0,Hybrid,Critical,0.15,0.0,Active,4.3,Hands-on,SRE Lead,100.0,88.0,Pass
+E006,G4,IT Support,Windows,PowerShell,Cloud,40.0,Online,High,0.45,15.0,Active,3.9,Visual,Cloud Engineer,70.0,0.0,Fail
+E007,G4,QA,Appium,Mobile Testing,Testing,35.0,Hybrid,High,0.55,20.0,Bench,3.7,Hands-on,Test Lead,0.0,0.0,Fail
+E008,G6,Data Science,Tableau,Power BI,Data Science,50.0,Hybrid,Critical,0.2,0.0,Active,4.6,Reading,AI Lead,100.0,90.0,Pass
+E009,G3,QA,Cucumber,BDD,Testing,20.0,Online,High,0.35,0.0,Active,3.5,Visual,QA Engineer,100.0,76.0,Pass
+E010,G4,QA,Robot Framework,Python,Programming,30.0,Online,High,0.3,0.0,Active,3.8,Visual,SDET,100.0,80.0,Pass
+E011,G6,Data Science,Machine Learning,Python,Data Science,80.0,Hybrid,Critical,0.25,8.0,Active,4.7,Reading,ML Architect,75.0,0.0,Fail
+E012,G5,Engineering,Python,FastAPI,Development,50.0,Hybrid,High,0.4,12.0,Active,4.1,Hands-on,Full Stack Lead,50.0,0.0,Fail
+E013,G6,Engineering,Scala,Spark,Data Engineering,55.0,Hybrid,High,0.15,0.0,Active,4.4,Hands-on,Data Architect,100.0,87.0,Pass
+E014,G6,Data Science,TensorFlow,PyTorch,Data Science,65.0,Hybrid,High,0.3,10.0,Active,4.8,Reading,AI Researcher,60.0,0.0,Fail
+E015,G6,Data Science,Spark,Databricks,Data Engineering,40.0,Hybrid,High,0.2,0.0,Active,4.3,Hands-on,Data Lead,100.0,84.0,Pass
+E016,G4,Data Science,SQL,PostgreSQL,Analytics,35.0,Hybrid,High,0.25,0.0,Active,4.0,Hands-on,DBA,100.0,79.0,Pass
+E017,G4,Engineering,Python,Django,Programming,40.0,Hybrid,High,0.2,0.0,Active,4.1,Hands-on,Backend Dev,100.0,82.0,Pass
+E018,G4,Engineering,Ruby,Rails,Development,30.0,Online,High,0.45,18.0,Bench,3.9,Visual,Full Stack Dev,100.0,75.0,Pass
+E019,G5,Engineering,TypeScript,Angular,Development,45.0,Online,High,0.3,10.0,Active,4.2,Visual,Frontend Lead,80.0,0.0,Fail
+E020,G4,Engineering,PHP,Laravel,Development,50.0,Hybrid,High,0.5,22.0,Bench,3.8,Hands-on,Backend Dev,0.0,0.0,Fail
+E021,G3,Data Science,Python,Pandas,Analytics,35.0,Online,High,0.4,15.0,Bench,3.4,Visual,Data Analyst,100.0,74.0,Pass
+E022,G5,Engineering,CPP,Qt,DevOps,30.0,Hybrid,High,0.25,0.0,Active,4.0,Hands-on,Systems Dev,100.0,81.0,Pass
+E023,G3,Engineering,HTML,CSS,Development,30.0,Online,High,0.35,0.0,Active,3.5,Visual,Web Dev,100.0,77.0,Pass
+E024,G5,Data Science,SAS,SPSS,Data Science,60.0,Hybrid,Critical,0.45,15.0,Active,4.1,Reading,Data Scientist,55.0,0.0,Fail
+E025,G3,IT Support,MacOS,Jamf,DevOps,15.0,Online,High,0.2,0.0,Active,3.6,Visual,IT Admin,100.0,85.0,Pass
+E026,G5,QA,Postman,Newman,Testing,35.0,Hybrid,High,0.3,0.0,Active,4.0,Hands-on,QA Lead,100.0,80.0,Pass
+E027,G3,Engineering,Kotlin,Android,Development,45.0,Online,Medium,0.5,18.0,Bench,3.7,Visual,Mobile Dev,40.0,0.0,Fail
+E028,G5,Engineering,Swift,iOS,Development,45.0,Online,Medium,0.25,0.0,Active,4.2,Hands-on,iOS Lead,100.0,83.0,Pass
+E029,G4,Engineering,Node.js,Express,Development,30.0,Online,Medium,0.35,12.0,Active,3.9,Hands-on,Backend Dev,60.0,0.0,Fail
+E030,G5,Engineering,Docker,Compose,DevOps,50.0,Hybrid,Critical,0.2,0.0,Active,4.3,Hands-on,DevOps Lead,100.0,86.0,Pass
+E031,G5,Engineering,Terraform,Ansible,Cloud,60.0,Hybrid,Critical,0.15,0.0,Active,4.4,Hands-on,Cloud Architect,100.0,88.0,Pass
+E032,G3,Engineering,Vue.js,Nuxt,Development,45.0,Online,High,0.55,25.0,Bench,3.5,Visual,Frontend Dev,0.0,0.0,Fail
+E033,G5,IT Support,Splunk,ELK,Security,40.0,Online,Critical,0.3,0.0,Active,4.0,Reading,Security Analyst,100.0,79.0,Pass
+E034,G3,QA,TestRail,Zephyr,Testing,20.0,Online,High,0.4,15.0,Bench,3.6,Visual,Test Analyst,70.0,0.0,Fail
+E035,G5,Data Science,dbt,Airflow,Data Engineering,40.0,Hybrid,High,0.2,0.0,Active,4.2,Hands-on,Data Engineer,100.0,82.0,Pass
+E036,G3,Engineering,Dart,Flutter,Development,30.0,Online,High,0.35,0.0,Active,3.7,Visual,Mobile Dev,100.0,76.0,Pass
+E037,G5,Engineering,GraphQL,Apollo,Backend,50.0,Hybrid,High,0.4,15.0,Active,4.1,Hands-on,API Developer,45.0,0.0,Fail
+E038,G3,IT Support,Zabbix,Nagios,Cloud,40.0,Online,Critical,0.5,18.0,Bench,3.5,Visual,IT Support,50.0,0.0,Fail
+E039,G5,QA,Tosca,UFT,Testing,35.0,Hybrid,High,0.25,0.0,Active,4.0,Hands-on,QA Lead,100.0,81.0,Pass
+E040,G4,QA,Selenium,Cypress,Programming,30.0,Online,High,0.3,0.0,Active,3.9,Hands-on,Automation Eng,100.0,78.0,Pass
+E041,G5,Engineering,Cloud,Azure,Cloud,60.0,Hybrid,Critical,0.35,12.0,Active,4.2,Reading,Cloud Specialist,70.0,0.0,Fail
+E042,G3,QA,Selenium,Cypress,Testing,35.0,Hybrid,High,0.4,15.0,Bench,3.6,Hands-on,QA Analyst,65.0,0.0,Fail
+E043,G5,Data Science,R,Python,Data Science,60.0,Hybrid,Critical,0.2,0.0,Active,4.3,Reading,Data Scientist,100.0,84.0,Pass
+E044,G4,QA,JMeter,Gatling,Testing,20.0,Online,High,0.25,0.0,Active,3.8,Hands-on,Perf Tester,100.0,80.0,Pass
+E045,G6,Engineering,Rust,WebAssembly,Architecture,70.0,Hybrid,Critical,0.3,8.0,Active,4.6,Reading,Systems Architect,80.0,0.0,Fail
+E046,G6,Data Science,NLP,Transformers,Data Science,50.0,Hybrid,Critical,0.15,0.0,Active,4.7,Reading,NLP Lead,100.0,92.0,Pass
+E047,G6,Engineering,Erlang,Elixir,Development,50.0,Hybrid,High,0.4,12.0,Active,4.4,Hands-on,Backend Architect,55.0,0.0,Fail
+E048,G6,Data Science,Kafka,Flink,Data Engineering,55.0,Hybrid,High,0.2,0.0,Active,4.5,Hands-on,Stream Engineer,100.0,86.0,Pass
+E049,G6,QA,Security,OWASP,Security,60.0,Hybrid,Critical,0.25,0.0,Active,4.3,Hands-on,Security Lead,100.0,85.0,Pass
+E050,G6,Engineering,Clojure,ClojureScript,Programming,40.0,Hybrid,High,0.3,0.0,Active,4.2,Reading,Functional Dev,100.0,80.0,Pass
+E051,G6,Data Science,MLflow,Kubeflow,Data Science,50.0,Hybrid,Critical,0.25,10.0,Active,4.6,Reading,MLOps Lead,75.0,0.0,Fail
+E052,G6,QA,Accessibility,WCAG,Management,35.0,Online,Medium,0.3,0.0,Active,4.1,Visual,A11y Specialist,100.0,78.0,Pass
+E053,G6,Engineering,WebRTC,Socket.io,Development,50.0,Hybrid,High,0.2,0.0,Active,4.4,Hands-on,Real-time Dev,100.0,84.0,Pass
+E054,G6,Data Science,Jupyter,Colab,Data Science,80.0,Hybrid,Critical,0.15,0.0,Active,4.8,Reading,Research Scientist,100.0,91.0,Pass
+E055,G6,Engineering,Unity,Unreal,Development,30.0,Online,Medium,0.4,15.0,Active,4.3,Hands-on,Game Dev,60.0,0.0,Fail
+E056,G6,Engineering,AI,OpenAI,Data Science,50.0,Hybrid,Critical,0.1,0.0,Active,4.9,Hands-on,AI Architect,100.0,95.0,Pass
+E057,G6,Data Science,Time Series,Prophet,Data Science,60.0,Hybrid,Critical,0.2,0.0,Active,4.5,Reading,Forecasting Lead,100.0,87.0,Pass
+E058,G6,Engineering,Microservices,gRPC,Architecture,70.0,Hybrid,Critical,0.35,10.0,Active,4.6,Reading,Architect,50.0,0.0,Fail
+E059,G4,Engineering,Next.js,React,Development,45.0,Online,High,0.25,0.0,Active,4.0,Visual,Full Stack Dev,100.0,79.0,Pass
+E060,G4,Engineering,Svelte,SvelteKit,Development,30.0,Online,High,0.3,0.0,Active,3.8,Visual,UI Developer,100.0,77.0,Pass
+E061,G4,QA,Playwright,Puppeteer,Testing,35.0,Hybrid,High,0.25,0.0,Active,3.9,Hands-on,E2E Tester,100.0,82.0,Pass
+E062,G4,IT Support,PagerDuty,OpsGenie,Cloud,40.0,Online,Critical,0.4,15.0,Bench,3.7,Visual,On-call Eng,70.0,0.0,Fail
+E063,G4,QA,SoapUI,REST Assured,Testing,20.0,Online,High,0.2,0.0,Active,4.0,Hands-on,API Tester,100.0,83.0,Pass
+E064,G4,IT Support,Cloudflare,Fastly,Security,40.0,Online,Critical,0.45,18.0,Bench,3.8,Reading,CDN Specialist,65.0,0.0,Fail
+E065,G4,Data Science,Neo4j,Graph,Analytics,25.0,Online,High,0.3,0.0,Active,3.9,Hands-on,Graph Analyst,100.0,80.0,Pass
+E066,G6,IT Support,Kubernetes,Helm,DevOps,35.0,Hybrid,Critical,0.2,0.0,Active,4.4,Hands-on,K8s Admin,100.0,85.0,Pass
+E067,G4,Engineering,Remix,Qwik,Development,45.0,Online,High,0.4,15.0,Bench,3.7,Visual,Web Framework Dev,55.0,0.0,Fail
+E068,G4,IT Support,GitHub Actions,GitLab CI,DevOps,15.0,Online,High,0.2,0.0,Active,4.0,Hands-on,CI CD Admin,100.0,86.0,Pass
+E069,G3,QA,TestNG,JUnit,Programming,30.0,Online,High,0.35,12.0,Bench,3.5,Visual,Test Engineer,100.0,75.0,Pass
+E070,G4,IT Support,Cisco,Juniper,Infrastructure,40.0,Hybrid,High,0.25,0.0,Active,3.9,Hands-on,Network Eng,100.0,80.0,Pass
+E071,G5,IT Support,AWS,Lambda,Cloud,60.0,Hybrid,Critical,0.2,0.0,Active,4.2,Reading,Cloud Admin,100.0,84.0,Pass
+E072,G4,Engineering,CSharp,NET Core,Backend,50.0,Hybrid,High,0.4,15.0,Active,3.8,Hands-on,Software Eng,60.0,0.0,Fail
+E073,G4,IT Support,ServiceNow,ITSM,Management,20.0,Online,Medium,0.3,0.0,Active,3.9,Reading,ITSM Specialist,100.0,78.0,Pass
+E074,G5,Data Science,Scikit-learn,XGBoost,Data Science,80.0,Hybrid,Critical,0.25,8.0,Active,4.3,Hands-on,ML Developer,85.0,0.0,Pass
+E075,G5,Engineering,Nginx,HAProxy,DevOps,30.0,Hybrid,High,0.2,0.0,Active,4.1,Hands-on,Infra Eng,100.0,82.0,Pass
+E076,G3,IT Support,Active Directory,LDAP,Security,40.0,Online,Critical,0.55,22.0,Bench,3.4,Reading,Directory Admin,0.0,0.0,Fail
+E077,G5,QA,Allure,ReportPortal,Management,20.0,Online,Medium,0.25,0.0,Active,4.0,Visual,Test Reporter,100.0,77.0,Pass
+E078,G3,Data Science,Plotly,Dash,Analytics,30.0,Online,High,0.3,0.0,Active,3.6,Visual,Visualization Dev,100.0,79.0,Pass
+E079,G5,Engineering,FastAPI,Starlette,Programming,40.0,Hybrid,High,0.2,0.0,Active,4.2,Hands-on,Python Backend,100.0,85.0,Pass
+E080,G3,Engineering,WordPress,Drupal,Development,30.0,Online,High,0.4,15.0,Bench,3.5,Visual,CMS Developer,100.0,74.0,Pass
+E081,G5,IT Support,Datadog,New Relic,Cloud,40.0,Online,Critical,0.35,12.0,Active,4.1,Reading,APM Specialist,70.0,0.0,Fail
+E082,G3,QA,Manual,Exploratory,Testing,20.0,Online,High,0.35,0.0,Active,3.4,Visual,Manual Tester,100.0,76.0,Pass
+E083,G5,Data Science,Computer Vision,OpenCV,Data Science,80.0,Hybrid,Critical,0.3,10.0,Active,4.4,Hands-on,CV Engineer,70.0,0.0,Fail
+E084,G3,Engineering,Lisp,Scheme,Backend,40.0,Online,High,0.5,18.0,Bench,3.3,Reading,Legacy Dev,45.0,0.0,Fail
+E085,G5,Engineering,Perl,CGI,Programming,30.0,Online,High,0.25,0.0,Active,4.0,Hands-on,Script Dev,100.0,80.0,Pass
+E086,G3,IT Support,Ansible,Tower,Infrastructure,40.0,Hybrid,High,0.45,15.0,Bench,3.5,Hands-on,Config Mgmt,60.0,0.0,Fail
+E087,G5,QA,Contract,Pact,Testing,35.0,Hybrid,High,0.2,0.0,Active,4.1,Hands-on,Contract Tester,100.0,81.0,Pass
+E088,G3,Data Science,Statistical,Bayesian,Analytics,35.0,Online,High,0.3,0.0,Active,3.7,Reading,Statistician,100.0,83.0,Pass
+E089,G6,Engineering,Haskell,PureScript,Programming,40.0,Hybrid,High,0.25,0.0,Active,4.5,Reading,FP Developer,100.0,82.0,Pass
+E090,G4,Data Science,Snowflake,Redshift,Analytics,35.0,Hybrid,High,0.4,15.0,Active,3.9,Hands-on,Data Warehouse,55.0,0.0,Fail
+E091,G6,IT Support,Okta,Auth0,Security,60.0,Hybrid,Critical,0.2,0.0,Active,4.3,Reading,IAM Specialist,100.0,84.0,Pass
+E092,G4,Engineering,Blazor,MAUI,Development,45.0,Online,High,0.35,12.0,Active,3.8,Visual,NET Frontend,70.0,0.0,Fail
+E093,G4,Data Science,H2O,AutoML,Data Science,60.0,Hybrid,Critical,0.5,18.0,Bench,3.7,Hands-on,ML Engineer,40.0,0.0,Fail
+E094,G6,IT Support,Puppet,Chef,DevOps,35.0,Hybrid,Critical,0.25,0.0,Active,4.2,Hands-on,Config Mgmt Lead,100.0,83.0,Pass
+E095,G4,Engineering,Webpack,Vite,Development,30.0,Online,High,0.3,0.0,Active,3.9,Visual,Build Eng,100.0,78.0,Pass
+E096,G6,QA,Chaos,Resilience,Security,60.0,Hybrid,Critical,0.2,0.0,Active,4.4,Hands-on,SRE Tester,100.0,87.0,Pass
+E097,G4,Engineering,Electron,Tauri,Development,45.0,Online,High,0.5,20.0,Bench,3.6,Visual,Desktop Dev,0.0,0.0,Fail
+E098,G4,QA,Performance,Metrics,Testing,20.0,Online,High,0.25,0.0,Active,3.8,Hands-on,Perf Analyst,100.0,80.0,Pass
+E099,G6,Engineering,Observability,OpenTelemetry,DevOps,50.0,Hybrid,Critical,0.15,0.0,Active,4.6,Hands-on,SRE Engineer,100.0,89.0,Pass
+E100,G3,Engineering,Bash,Shell,Programming,25.0,Online,High,0.3,10.0,Active,3.6,Hands-on,Script Eng,100.0,77.0,Pass

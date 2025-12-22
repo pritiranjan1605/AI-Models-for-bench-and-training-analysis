@@ -1,0 +1,110 @@
+﻿Emp Id,Associate,Grade,Department,Primary Skill,Current_Skill,Bench Start Date,Days on MTP,MTP_Days_Categories,Status,Sub Status,Action_Status,Availability,Work City,Aligned Opp2,Ops Comments,Comments,Line_Manager,Days_on_Bench
+104,Daniel Park,G5,Engineering,Java,Java,15-10-2025,25,Short-Term,Active,Available,Approved,Yes,NY,Project C,Senior developer,Strong in backend,Lisa Chen,50
+107,George Wang,G3,Engineering,JavaScript,React,20-10-2025,18,Short-Term,Active,Available,Approved,Yes,Seattle,Project F,Frontend dev,UI specialist,Tom Davis,45
+111,Kevin O'Brien,G6,Engineering,Java,Spring Boot,25-10-2025,75,Long-Term,Active,Available,Approved,Yes,Toronto,Project J,Tech lead,Architect level,Ryan Martinez,40
+115,Oscar Martinez,G3,IT Support,Linux,Ubuntu,30-10-2025,10,Short-Term,Active,Available,Approved,Yes,Dallas,Project N,Sys admin,Shell scripting,Mark Taylor,35
+118,Rachel Green,G5,Engineering,Go,Kubernetes,02-11-2025,65,Long-Term,Active,Available,Approved,Yes,Atlanta,Project Q,DevOps eng,CI/CD expert,Sarah Brown,32
+124,Xavier Ross,G4,IT Support,Windows,PowerShell,05-11-2025,32,Medium-Term,Active,Available,Approved,Yes,San Antonio,Project W,IT specialist,Automation,Julia Adams,29
+128,Brandon Scott,G4,QA,Appium,XCUITest,08-11-2025,26,Short-Term,Active,Available,Approved,Yes,Fort Worth,Project AA,Mobile tester,iOS/Android,Lisa Chen,26
+134,Henry Adams,G6,Data Science,Tableau,Power BI,10-11-2025,80,Long-Term,Active,Available,Approved,Yes,Washington,Project AG,BI developer,Dashboards,Amy Garcia,24
+139,Maria Johnson,G3,QA,Cucumber,BDD,12-11-2025,12,Short-Term,Active,Available,Approved,Yes,Louisville,Project AL,Test analyst,Gherkin syntax,Mark Taylor,22
+144,Rita Wilson,G4,QA,Robot Framework,Python,14-11-2025,36,Medium-Term,Active,Available,Approved,Yes,Sacramento,Project AQ,Automation eng,Keyword driven,Nancy Kim,20
+150,Xena Warrior,G6,Engineering,Haskell,PureScript,16-11-2025,84,Long-Term,Active,Available,Approved,Yes,Colorado Springs,Project AW,FP developer,Type theory,Jane Doe,18
+156,Diana Prince,G4,Data Science,Snowflake,Redshift,18-11-2025,40,Medium-Term,Active,Available,Approved,Yes,Tulsa,Project BC,Data warehouse,Cloud DW,Nancy Kim,16
+162,Julia Roberts,G6,IT Support,Okta,Auth0,20-11-2025,91,Long-Term,Active,Available,Approved,Yes,Tampa,Project BI,IAM specialist,SSO expert,Jane Doe,14
+168,Priya Sharma,G4,Engineering,Blazor,MAUI,22-11-2025,29,Short-Term,Active,Available,Approved,Yes,Riverside,Project BO,.NET frontend,WebAssembly,Nancy Kim,12
+176,Xander Cage,G4,Data Science,H2O,AutoML,24-11-2025,24,Short-Term,Active,Available,Approved,Yes,Lincoln,Project BW,ML engineer,Model tuning,Lisa Chen,10
+182,Daisy Duke,G6,IT Support,Puppet,Chef,26-11-2025,96,Long-Term,Active,Available,Approved,Yes,Fort Wayne,Project CC,Config mgmt,Automation,Amy Garcia,8
+188,Jessica Jones,G4,Engineering,Webpack,Vite,28-11-2025,43,Medium-Term,Active,Available,Approved,Yes,Madison,Project CI,Build eng,Bundling,Lisa Chen,6
+194,Peter Parker,G6,QA,Chaos,Resilience,30-11-2025,78,Long-Term,Active,Available,Approved,Yes,Paradise,Project CO,SRE tester,Fault injection,Amy Garcia,4
+200,Vader Darth,G4,Engineering,Electron,Tauri,01-12-2025,27,Short-Term,Active,Available,Approved,Yes,Birmingham,Project CU,Desktop dev,Cross platform,Lisa Chen,3
+204,Zorro Mask,G4,QA,Performance,Metrics,02-12-2025,34,Medium-Term,Active,Available,Approved,Yes,Baton Rouge,Project CY,Perf analyst,Benchmarking,Nancy Kim,2
+210,Frank Castle,G6,Engineering,Observability,OpenTelemetry,03-12-2025,81,Long-Term,Active,Available,Approved,Yes,Fremont,Project DE,SRE engineer,Distributed trace,Jane Doe,1
+106,Fiona Clark,G6,Data Science,Machine Learning,Python,17-10-2025,50,Medium-Term,Active,Available,Escalated,Yes,Boston,Project E,ML engineer,PhD holder,Sarah Brown,48
+110,Julia Santos,G5,Engineering,Python,FastAPI,19-10-2025,60,Long-Term,Active,Available,Escalated,Yes,Denver,Project I,API developer,Microservices exp,Amy Garcia,46
+116,Patricia White,G6,Engineering,Scala,Spark,21-10-2025,90,Long-Term,Active,Available,Escalated,Yes,Miami,Project O,Big data eng,Hadoop certified,Lisa Chen,44
+121,Uma Krishnan,G6,Data Science,TensorFlow,PyTorch,23-10-2025,85,Long-Term,Active,Available,Escalated,Yes,San Diego,Project T,AI researcher,Deep learning,Chris Lee,42
+126,Zachary King,G6,Data Science,Spark,Databricks,27-10-2025,95,Long-Term,Active,Available,Escalated,Yes,Jacksonville,Project Y,Data eng,ETL pipelines,Jane Doe,38
+130,Derek Young,G6,Engineering,Rust,WebAssembly,29-10-2025,100,Long-Term,Active,Available,Escalated,Yes,Indianapolis,Project AC,Systems eng,Low level,Sarah Brown,36
+138,Leo Martinez,G6,Data Science,NLP,Transformers,01-11-2025,76,Long-Term,Active,Available,Escalated,Yes,Baltimore,Project AK,NLP engineer,BERT/GPT exp,Jane Doe,33
+142,Paul Anderson,G6,Engineering,Erlang,Elixir,04-11-2025,88,Long-Term,Active,Available,Escalated,Yes,Tucson,Project AO,Functional dev,OTP expert,Sarah Brown,30
+146,Tracy Moore,G6,Data Science,Kafka,Flink,07-11-2025,98,Long-Term,Active,Available,Escalated,Yes,Kansas City,Project AS,Stream eng,Real-time data,Amy Garcia,27
+154,Bella Swan,G6,QA,Security,OWASP,11-11-2025,78,Long-Term,Active,Available,Escalated,Yes,Oakland,Project BA,Security tester,Pen testing,Sarah Brown,23
+158,Faye Wong,G6,Engineering,Clojure,ClojureScript,13-11-2025,94,Long-Term,Active,Available,Escalated,Yes,Wichita,Project BE,Lisp developer,Immutable data,Amy Garcia,21
+166,Nancy Drew,G6,Data Science,MLflow,Kubeflow,15-11-2025,86,Long-Term,Active,Available,Escalated,Yes,Santa Ana,Project BM,MLOps eng,Model deploy,Sarah Brown,19
+174,Vera Wang,G6,QA,Accessibility,WCAG,17-11-2025,104,Long-Term,Active,Available,Escalated,Yes,Greensboro,Project BU,A11y tester,Screen readers,Jane Doe,17
+178,Zeus Olympian,G6,Engineering,WebRTC,Socket.io,19-11-2025,88,Long-Term,Active,Available,Escalated,Yes,Orlando,Project BY,Real-time dev,Video conf,Sarah Brown,15
+186,Hermione Granger,G6,Data Science,Jupyter,Colab,21-11-2025,84,Long-Term,Active,Available,Escalated,Yes,Chandler,Project CG,Research sci,Notebooks,Jane Doe,13
+190,Lara Croft,G6,Engineering,Unity,Unreal,23-11-2025,101,Long-Term,Active,Available,Escalated,Yes,Lubbock,Project CK,Game dev,3D graphics,Sarah Brown,11
+198,Tony Stark,G6,Engineering,AI,OpenAI,25-11-2025,94,Long-Term,Active,Available,Escalated,Yes,Des Moines,Project CS,AI engineer,LLM integration,Jane Doe,9
+206,Bruce Wayne,G6,Data Science,Time Series,Prophet,27-11-2025,86,Long-Term,Active,Available,Escalated,Yes,Modesto,Project DA,Forecasting,Anomaly det,Amy Garcia,7
+109,Ian Foster,G4,Data Science,SQL,PostgreSQL,16-10-2025,35,Medium-Term,Active,Available,In Progress,Yes,LA,Project H,Database admin,Performance tuning,Chris Lee,49
+113,Michael Turner,G4,Engineering,Python,Django,18-10-2025,28,Short-Term,Active,Available,In Progress,Yes,Austin,Project L,Backend dev,REST API expert,John Smith,47
+120,Tanya Brooks,G4,Engineering,Ruby,Rails,22-10-2025,40,Medium-Term,Active,Available,In Progress,Yes,Minneapolis,Project S,Full stack,Agile exp,Nancy Kim,43
+125,Yolanda Fisher,G5,Engineering,TypeScript,Angular,24-10-2025,70,Long-Term,Active,Available,In Progress,Yes,San Jose,Project X,Frontend lead,RxJS expert,John Smith,41
+132,Frank Miller,G4,Engineering,PHP,Laravel,26-10-2025,38,Medium-Term,Active,Available,In Progress,Yes,Seattle,Project AE,Web backend,E-commerce,Nancy Kim,39
+136,James Wilson,G4,IT Support,Cisco,Juniper,28-10-2025,44,Medium-Term,Active,Available,In Progress,Yes,Nashville,Project AI,Network eng,CCNA certified,Julia Adams,37
+141,Olivia Davis,G5,IT Support,AWS,Lambda,31-10-2025,64,Long-Term,Active,Available,In Progress,Yes,Albuquerque,Project AN,Cloud admin,Serverless,Mike Wilson,34
+148,Victoria Hill,G4,Engineering,C#,.NET Core,03-11-2025,30,Medium-Term,Active,Available,In Progress,Yes,Virginia Beach,Project AU,Software eng,Microservices,Julia Adams,31
+152,Zoe Roberts,G4,IT Support,ServiceNow,ITSM,06-11-2025,42,Medium-Term,Active,Available,In Progress,Yes,Raleigh,Project AY,ITSM specialist,ITIL certified,Lisa Chen,28
+160,Holly Berry,G4,Engineering,Svelte,SvelteKit,09-11-2025,27,Short-Term,Active,Available,In Progress,Yes,New Orleans,Project BG,UI developer,Reactive UI,Julia Adams,25
+164,Luna Lovegood,G4,QA,Playwright,Puppeteer,29-11-2025,34,Medium-Term,Active,Available,In Progress,Yes,Aurora,Project BK,E2E tester,Browser auto,Lisa Chen,5
+170,Rosa Parks,G6,Engineering,Microservices,gRPC,16-10-2025,81,Long-Term,Active,Available,In Progress,Yes,Lexington,Project BQ,Architect,Distributed sys,Amy Garcia,49
+172,Tina Turner,G4,IT Support,PagerDuty,OpsGenie,20-10-2025,46,Medium-Term,Active,Available,In Progress,Yes,Henderson,Project BS,On-call eng,Incident mgmt,Julia Adams,45
+180,Bob Builder,G4,Engineering,Next.js,React,24-10-2025,39,Medium-Term,Active,Available,In Progress,Yes,Newark,Project CA,Full stack,SSR expert,Nancy Kim,41
+184,Felicity Smoak,G4,QA,SoapUI,REST Assured,28-10-2025,31,Medium-Term,Active,Available,In Progress,Yes,Chula Vista,Project CE,API tester,Integration,Julia Adams,37
+192,Natasha Romanoff,G4,IT Support,Cloudflare,Fastly,01-11-2025,36,Medium-Term,Active,Available,In Progress,Yes,Glendale,Project CM,CDN specialist,Edge compute,Nancy Kim,33
+196,Robin Hood,G4,Data Science,Neo4j,Graph,05-11-2025,41,Medium-Term,Active,Available,In Progress,Yes,Boise,Project CQ,Graph analyst,Relationships,Julia Adams,29
+202,Xavier Charles,G6,IT Support,Kubernetes,Helm,09-11-2025,91,Long-Term,Active,Available,In Progress,Yes,Rochester,Project CW,K8s admin,Container orch,Sarah Brown,25
+208,Diana Ross,G4,Engineering,Remix,Qwik,13-11-2025,29,Short-Term,Active,Available,In Progress,Yes,Scottsdale,Project DC,Web framework,Islands arch,Julia Adams,21
+212,Harry Potter,G4,IT Support,GitHub Actions,GitLab CI,17-11-2025,46,Medium-Term,Active,Available,In Progress,Yes,Moreno Valley,Project DG,CI/CD admin,Pipeline,Lisa Chen,17
+105,Elena Rodriguez,G4,QA,Selenium,Selenium,21-11-2025,30,Medium-Term,Active,Available,Pending,Yes,SF,Project D,Automation expert,ISTQB certified,Mike Wilson,13
+108,Hannah Moore,G5,Engineering,Cloud,Azure,25-11-2025,42,Medium-Term,Active,Available,Pending,Yes,Chicago,Project G,Cloud specialist,Azure certified,Nancy Kim,9
+112,Laura Kim,G3,QA,Selenium,Cypress,29-11-2025,12,Short-Term,Active,Available,Pending,Yes,Montreal,Project K,QA analyst,E2E testing,Julia Adams,5
+114,Nina Patel,G5,Data Science,R,Python,02-12-2025,55,Medium-Term,Active,Available,Pending,Yes,Phoenix,Project M,Data analyst,Stats background,Jane Doe,2
+117,Quinn Hayes,G4,QA,JMeter,Gatling,03-12-2025,22,Short-Term,Active,Available,Pending,Yes,Portland,Project P,Perf tester,Load testing,Mike Wilson,1
+119,Samuel Wright,G3,Data Science,Python,Pandas,15-10-2025,3,Short-Term,Active,Available,Pending,Yes,Detroit,Project R,Jr analyst,Visualization,Tom Davis,50
+122,Victor Chen,G5,Engineering,C++,Qt,17-10-2025,48,Medium-Term,Active,Available,Pending,Yes,Houston,Project U,Desktop dev,Cross platform,Amy Garcia,48
+123,Wendy Liu,G3,QA,TestNG,JUnit,19-10-2025,1,Short-Term,Active,Available,Pending,Yes,Philadelphia,Project V,Test eng,Java testing,Ryan Martinez,46
+127,Amanda Collins,G3,Engineering,HTML,CSS,21-10-2025,8,Short-Term,Active,Available,Pending,Yes,Columbus,Project Z,Web dev,Responsive design,Mark Taylor,44
+129,Carmen Diaz,G5,Data Science,SAS,SPSS,23-10-2025,45,Medium-Term,Active,Available,Pending,Yes,Charlotte,Project AB,Statistician,Clinical trials,Mike Wilson,42
+131,Emily Foster,G3,IT Support,MacOS,Jamf,25-10-2025,6,Short-Term,Active,Available,Pending,Yes,San Francisco,Project AD,Apple admin,MDM expert,Tom Davis,40
+133,Grace Thompson,G5,QA,Postman,Newman,27-10-2025,52,Medium-Term,Active,Available,Pending,Yes,Denver,Project AF,API tester,Contract testing,Chris Lee,38
+135,Irene Garcia,G3,Engineering,Kotlin,Android,29-10-2025,0,Short-Term,Active,Available,Pending,Yes,Boston,Project AH,Mobile dev,Jetpack Compose,Ryan Martinez,36
+137,Karen Lee,G5,Engineering,Swift,iOS,31-10-2025,58,Medium-Term,Active,Available,Pending,Yes,Memphis,Project AJ,iOS developer,SwiftUI expert,John Smith,34
+140,Nathan Brown,G4,Engineering,Node.js,Express,02-11-2025,24,Short-Term,Active,Available,Pending,Yes,Milwaukee,Project AM,Backend dev,GraphQL exp,Lisa Chen,32
+143,Quinn Taylor,G3,Data Science,Excel,VBA,04-11-2025,2,Short-Term,Active,Available,Pending,Yes,Fresno,Project AP,Business analyst,Automation,Tom Davis,30
+145,Steve Clark,G5,Engineering,Docker,Compose,06-11-2025,51,Medium-Term,Active,Available,Pending,Yes,Long Beach,Project AR,Container eng,Orchestration,Chris Lee,28
+147,Ulysses Grant,G3,IT Support,VMware,vSphere,08-11-2025,9,Short-Term,Active,Available,Pending,Yes,Mesa,Project AT,Virtualization,ESXi admin,Ryan Martinez,26
+149,William Turner,G5,QA,LoadRunner,Silk,10-11-2025,68,Long-Term,Active,Available,Pending,Yes,Atlanta,Project AV,Perf engineer,Enterprise,John Smith,24
+151,Yusuf Ahmed,G3,Data Science,MongoDB,Cassandra,12-11-2025,5,Short-Term,Active,Available,Pending,Yes,Omaha,Project AX,NoSQL admin,Distributed DB,Mark Taylor,22
+153,Aaron Smith,G5,Engineering,Terraform,Ansible,14-11-2025,62,Long-Term,Active,Available,Pending,Yes,Miami,Project AZ,IaC engineer,GitOps exp,Mike Wilson,20
+155,Carlos Rivera,G3,Engineering,Vue.js,Nuxt,16-11-2025,1,Short-Term,Active,Available,Pending,Yes,Minneapolis,Project BB,Frontend dev,Composition API,Tom Davis,18
+157,Edward Blake,G5,IT Support,Splunk,ELK,18-11-2025,56,Medium-Term,Active,Available,Pending,Yes,Cleveland,Project BD,Log analyst,SIEM expert,Chris Lee,16
+159,Gary Cooper,G3,QA,TestRail,Zephyr,20-11-2025,7,Short-Term,Active,Available,Pending,Yes,Arlington,Project BF,Test manager,Agile testing,Ryan Martinez,14
+161,Ivan Petrov,G5,Data Science,dbt,Airflow,22-11-2025,74,Long-Term,Active,Available,Pending,Yes,Bakersfield,Project BH,Data ops,Pipeline eng,John Smith,12
+163,Kyle Reese,G3,Engineering,Dart,Flutter,24-11-2025,11,Short-Term,Active,Available,Pending,Yes,Honolulu,Project BJ,Cross platform,Mobile UI,Mark Taylor,10
+165,Marcus Aurelius,G5,Engineering,GraphQL,Apollo,26-11-2025,48,Medium-Term,Active,Available,Pending,Yes,Anaheim,Project BL,API developer,Federation,Mike Wilson,8
+167,Oscar Wilde,G3,IT Support,Zabbix,Nagios,28-11-2025,4,Short-Term,Active,Available,Pending,Yes,St Louis,Project BN,Monitoring,Infrastructure,Tom Davis,6
+169,Quincy Jones,G5,QA,Tosca,UFT,30-11-2025,66,Long-Term,Active,Available,Pending,Yes,Corpus Christi,Project BP,Enterprise QA,Scriptless,Chris Lee,4
+171,Sam Watson,G3,Data Science,Looker,Metabase,01-12-2025,2,Short-Term,Active,Available,Pending,Yes,Stockton,Project BR,BI analyst,Self-service,Ryan Martinez,3
+173,Umar Farooq,G5,Engineering,Redis,Memcached,02-12-2025,54,Medium-Term,Active,Available,Pending,Yes,Saint Paul,Project BT,Cache eng,Performance,John Smith,2
+175,Walter White,G3,Engineering,Bash,Shell,03-12-2025,8,Short-Term,Active,Available,Pending,Yes,Pittsburgh,Project BV,Script dev,Unix admin,Mark Taylor,1
+177,Yvonne Strahovski,G5,IT Support,Grafana,Prometheus,15-10-2025,71,Long-Term,Active,Available,Pending,Yes,Plano,Project BX,Observability,Metrics,Mike Wilson,50
+179,Alice Wonderland,G3,QA,Mocha,Chai,17-10-2025,3,Short-Term,Active,Available,Pending,Yes,Irvine,Project BZ,JS tester,Node testing,Tom Davis,48
+181,Charlie Chaplin,G5,Data Science,Scikit-learn,XGBoost,19-10-2025,58,Medium-Term,Active,Available,Pending,Yes,Toledo,Project CB,ML developer,Classification,Chris Lee,46
+183,Ethan Hunt,G3,Engineering,Assembly,LLVM,21-10-2025,6,Short-Term,Active,Available,Pending,Yes,Jersey City,Project CD,Low level,Compilers,Ryan Martinez,44
+185,Gordon Ramsay,G5,Engineering,Nginx,HAProxy,23-10-2025,64,Long-Term,Active,Available,Pending,Yes,Orlando,Project CF,Infra eng,Load balancing,John Smith,42
+187,Indiana Jones,G3,IT Support,Active Directory,LDAP,25-10-2025,9,Short-Term,Active,Available,Pending,Yes,Laredo,Project CH,Directory admin,Federation,Mark Taylor,40
+189,Kevin Hart,G5,QA,Allure,ReportPortal,27-10-2025,51,Medium-Term,Active,Available,Pending,Yes,Durham,Project CJ,Test reporter,Analytics,Mike Wilson,38
+191,Mario Bros,G3,Data Science,Plotly,Dash,29-10-2025,1,Short-Term,Active,Available,Pending,Yes,Gilbert,Project CL,Visualization,Interactive,Tom Davis,36
+193,Oliver Queen,G5,Engineering,FastAPI,Starlette,31-10-2025,68,Long-Term,Active,Available,Pending,Yes,North Las Vegas,Project CN,Python backend,Async APIs,Chris Lee,34
+195,Queen Elizabeth,G3,Engineering,WordPress,Drupal,02-11-2025,5,Short-Term,Active,Available,Pending,Yes,Brownsville,Project CP,CMS developer,Content mgmt,Ryan Martinez,32
+197,Sherlock Holmes,G5,IT Support,Datadog,New Relic,04-11-2025,56,Medium-Term,Active,Available,Pending,Yes,Spokane,Project CR,APM specialist,Tracing,John Smith,30
+199,Uma Thurman,G3,QA,Manual,Exploratory,06-11-2025,7,Short-Term,Active,Available,Pending,Yes,San Bernardino,Project CT,Manual tester,Usability,Mark Taylor,28
+201,Wanda Vision,G5,Data Science,Computer Vision,OpenCV,08-11-2025,74,Long-Term,Active,Available,Pending,Yes,Salt Lake City,Project CV,CV engineer,Image proc,Mike Wilson,26
+203,Yoda Master,G3,Engineering,Lisp,Scheme,10-11-2025,11,Short-Term,Active,Available,Pending,Yes,Shreveport,Project CX,Legacy dev,Functional,Tom Davis,24
+205,Arthur King,G5,Engineering,Perl,CGI,12-11-2025,48,Medium-Term,Active,Available,Pending,Yes,Tacoma,Project CZ,Script dev,Text proc,Chris Lee,22
+207,Clark Kent,G3,IT Support,Ansible,Tower,14-11-2025,4,Short-Term,Active,Available,Pending,Yes,Hialeah,Project DB,Config mgmt,Playbooks,Ryan Martinez,20
+209,Edward Norton,G5,QA,Contract,Pact,16-11-2025,66,Long-Term,Active,Available,Pending,Yes,Fontana,Project DD,Contract tester,CDC testing,John Smith,18
+211,Grace Kelly,G3,Data Science,Statistical,Bayesian,18-11-2025,2,Short-Term,Active,Available,Pending,Yes,Glendale,Project DF,Statistician,Inference,Mark Taylor,16
